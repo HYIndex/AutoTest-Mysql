@@ -1,0 +1,176 @@
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 16 tps: 8683.96 qps: 8683.96 (r/w/o: 8683.96/0.00/0.00) lat (ms,95%): 3.96 err/s: 0.00 reconn/s: 0.00
+[ 20s ] thds: 16 tps: 9148.30 qps: 9148.30 (r/w/o: 9148.30/0.00/0.00) lat (ms,95%): 3.62 err/s: 0.00 reconn/s: 0.00
+[ 30s ] thds: 16 tps: 9128.01 qps: 9128.01 (r/w/o: 9128.01/0.00/0.00) lat (ms,95%): 3.75 err/s: 0.00 reconn/s: 0.00
+[ 40s ] thds: 16 tps: 9198.02 qps: 9198.02 (r/w/o: 9198.02/0.00/0.00) lat (ms,95%): 3.68 err/s: 0.00 reconn/s: 0.00
+[ 50s ] thds: 16 tps: 9305.64 qps: 9305.64 (r/w/o: 9305.64/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 60s ] thds: 16 tps: 9305.12 qps: 9305.12 (r/w/o: 9305.12/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 70s ] thds: 16 tps: 9311.99 qps: 9311.99 (r/w/o: 9311.99/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 80s ] thds: 16 tps: 9335.70 qps: 9335.70 (r/w/o: 9335.70/0.00/0.00) lat (ms,95%): 3.49 err/s: 0.00 reconn/s: 0.00
+[ 90s ] thds: 16 tps: 9339.79 qps: 9339.79 (r/w/o: 9339.79/0.00/0.00) lat (ms,95%): 3.49 err/s: 0.00 reconn/s: 0.00
+[ 100s ] thds: 16 tps: 9335.57 qps: 9335.57 (r/w/o: 9335.57/0.00/0.00) lat (ms,95%): 3.49 err/s: 0.00 reconn/s: 0.00
+[ 110s ] thds: 16 tps: 9168.22 qps: 9168.22 (r/w/o: 9168.22/0.00/0.00) lat (ms,95%): 3.82 err/s: 0.00 reconn/s: 0.00
+[ 120s ] thds: 16 tps: 9309.21 qps: 9309.21 (r/w/o: 9309.21/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 130s ] thds: 16 tps: 9357.46 qps: 9357.46 (r/w/o: 9357.46/0.00/0.00) lat (ms,95%): 3.49 err/s: 0.00 reconn/s: 0.00
+[ 140s ] thds: 16 tps: 9358.63 qps: 9358.63 (r/w/o: 9358.63/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 150s ] thds: 16 tps: 9301.70 qps: 9301.70 (r/w/o: 9301.70/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 160s ] thds: 16 tps: 9203.34 qps: 9203.34 (r/w/o: 9203.34/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 170s ] thds: 16 tps: 9212.93 qps: 9212.93 (r/w/o: 9212.93/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 180s ] thds: 16 tps: 9174.68 qps: 9174.68 (r/w/o: 9174.68/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 190s ] thds: 16 tps: 9205.38 qps: 9205.38 (r/w/o: 9205.38/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 200s ] thds: 16 tps: 9159.81 qps: 9159.81 (r/w/o: 9159.81/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 210s ] thds: 16 tps: 9237.82 qps: 9237.82 (r/w/o: 9237.82/0.00/0.00) lat (ms,95%): 3.49 err/s: 0.00 reconn/s: 0.00
+[ 220s ] thds: 16 tps: 9245.68 qps: 9245.68 (r/w/o: 9245.68/0.00/0.00) lat (ms,95%): 3.49 err/s: 0.00 reconn/s: 0.00
+[ 230s ] thds: 16 tps: 9212.84 qps: 9212.84 (r/w/o: 9212.84/0.00/0.00) lat (ms,95%): 3.49 err/s: 0.00 reconn/s: 0.00
+[ 240s ] thds: 16 tps: 9195.57 qps: 9195.57 (r/w/o: 9195.57/0.00/0.00) lat (ms,95%): 3.49 err/s: 0.00 reconn/s: 0.00
+[ 250s ] thds: 16 tps: 9190.35 qps: 9190.35 (r/w/o: 9190.35/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 260s ] thds: 16 tps: 9021.91 qps: 9021.91 (r/w/o: 9021.91/0.00/0.00) lat (ms,95%): 3.82 err/s: 0.00 reconn/s: 0.00
+[ 270s ] thds: 16 tps: 9110.05 qps: 9110.05 (r/w/o: 9110.05/0.00/0.00) lat (ms,95%): 3.62 err/s: 0.00 reconn/s: 0.00
+[ 280s ] thds: 16 tps: 9164.64 qps: 9164.64 (r/w/o: 9164.64/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 290s ] thds: 16 tps: 9193.53 qps: 9193.53 (r/w/o: 9193.53/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+[ 300s ] thds: 16 tps: 9217.86 qps: 9217.86 (r/w/o: 9217.86/0.00/0.00) lat (ms,95%): 3.55 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            2763371
+        write:                           0
+        other:                           0
+        total:                           2763371
+    transactions:                        2763371 (9210.53 per sec.)
+    queries:                             2763371 (9210.53 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+Throughput:
+    events/s (eps):                      9210.5299
+    time elapsed:                        300.0230s
+    total number of events:              2763371
+
+Latency (ms):
+         min:                                    0.14
+         avg:                                    1.74
+         max:                                  118.18
+         95th percentile:                        3.55
+         sum:                              4797137.42
+
+Threads fairness:
+    events (avg/stddev):           172710.6875/1101.25
+    execution time (avg/stddev):   299.8211/0.00
+
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 32
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest97' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1146 "Table 'testdb.sbtest98' doesn't exist"
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:308: SQL API error
+FATAL: Threads initialization failed!

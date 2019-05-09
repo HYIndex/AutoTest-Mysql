@@ -1,0 +1,1647 @@
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 16 tps: 14208.72 qps: 14208.72 (r/w/o: 14208.72/0.00/0.00) lat (ms,95%): 1.79 err/s: 0.00 reconn/s: 0.00
+[ 20s ] thds: 16 tps: 14235.99 qps: 14235.99 (r/w/o: 14235.99/0.00/0.00) lat (ms,95%): 1.76 err/s: 0.00 reconn/s: 0.00
+[ 30s ] thds: 16 tps: 14146.65 qps: 14146.65 (r/w/o: 14146.65/0.00/0.00) lat (ms,95%): 1.76 err/s: 0.00 reconn/s: 0.00
+[ 40s ] thds: 16 tps: 14121.13 qps: 14121.13 (r/w/o: 14121.13/0.00/0.00) lat (ms,95%): 1.82 err/s: 0.00 reconn/s: 0.00
+[ 50s ] thds: 16 tps: 11742.12 qps: 11742.12 (r/w/o: 11742.12/0.00/0.00) lat (ms,95%): 2.35 err/s: 0.00 reconn/s: 0.00
+[ 60s ] thds: 16 tps: 14208.42 qps: 14208.42 (r/w/o: 14208.42/0.00/0.00) lat (ms,95%): 1.79 err/s: 0.00 reconn/s: 0.00
+[ 70s ] thds: 16 tps: 14392.83 qps: 14392.83 (r/w/o: 14392.83/0.00/0.00) lat (ms,95%): 1.73 err/s: 0.00 reconn/s: 0.00
+[ 80s ] thds: 16 tps: 14305.81 qps: 14305.81 (r/w/o: 14305.81/0.00/0.00) lat (ms,95%): 1.61 err/s: 0.00 reconn/s: 0.00
+[ 90s ] thds: 16 tps: 14247.41 qps: 14247.41 (r/w/o: 14247.41/0.00/0.00) lat (ms,95%): 1.70 err/s: 0.00 reconn/s: 0.00
+[ 100s ] thds: 16 tps: 14103.69 qps: 14103.69 (r/w/o: 14103.69/0.00/0.00) lat (ms,95%): 1.61 err/s: 0.00 reconn/s: 0.00
+[ 110s ] thds: 16 tps: 13665.05 qps: 13665.05 (r/w/o: 13665.05/0.00/0.00) lat (ms,95%): 1.82 err/s: 0.00 reconn/s: 0.00
+[ 120s ] thds: 16 tps: 14284.02 qps: 14284.02 (r/w/o: 14284.02/0.00/0.00) lat (ms,95%): 1.76 err/s: 0.00 reconn/s: 0.00
+[ 130s ] thds: 16 tps: 12556.44 qps: 12556.44 (r/w/o: 12556.44/0.00/0.00) lat (ms,95%): 2.11 err/s: 0.00 reconn/s: 0.00
+[ 140s ] thds: 16 tps: 11703.16 qps: 11703.16 (r/w/o: 11703.16/0.00/0.00) lat (ms,95%): 2.14 err/s: 0.00 reconn/s: 0.00
+[ 150s ] thds: 16 tps: 12074.23 qps: 12074.23 (r/w/o: 12074.23/0.00/0.00) lat (ms,95%): 2.03 err/s: 0.00 reconn/s: 0.00
+[ 160s ] thds: 16 tps: 12574.25 qps: 12574.25 (r/w/o: 12574.25/0.00/0.00) lat (ms,95%): 1.96 err/s: 0.00 reconn/s: 0.00
+[ 170s ] thds: 16 tps: 11327.99 qps: 11327.99 (r/w/o: 11327.99/0.00/0.00) lat (ms,95%): 2.26 err/s: 0.00 reconn/s: 0.00
+[ 180s ] thds: 16 tps: 12066.15 qps: 12066.15 (r/w/o: 12066.15/0.00/0.00) lat (ms,95%): 2.07 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            2399693
+        write:                           0
+        other:                           0
+        total:                           2399693
+    transactions:                        2399693 (13329.94 per sec.)
+    queries:                             2399693 (13329.94 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+Throughput:
+    events/s (eps):                      13329.9382
+    time elapsed:                        180.0228s
+    total number of events:              2399693
+
+Latency (ms):
+         min:                                    0.12
+         avg:                                    1.20
+         max:                                  189.46
+         95th percentile:                        1.89
+         sum:                              2878300.28
+
+Threads fairness:
+    events (avg/stddev):           149980.8125/1337.03
+    execution time (avg/stddev):   179.8938/0.01
+
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 32
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 32 tps: 12780.26 qps: 12780.26 (r/w/o: 12780.26/0.00/0.00) lat (ms,95%): 3.89 err/s: 0.00 reconn/s: 0.00
+[ 20s ] thds: 32 tps: 12333.45 qps: 12333.45 (r/w/o: 12333.45/0.00/0.00) lat (ms,95%): 3.75 err/s: 0.00 reconn/s: 0.00
+[ 30s ] thds: 32 tps: 12533.08 qps: 12533.08 (r/w/o: 12533.08/0.00/0.00) lat (ms,95%): 3.68 err/s: 0.00 reconn/s: 0.00
+[ 40s ] thds: 32 tps: 12273.60 qps: 12273.60 (r/w/o: 12273.60/0.00/0.00) lat (ms,95%): 3.96 err/s: 0.00 reconn/s: 0.00
+[ 50s ] thds: 32 tps: 11369.50 qps: 11369.50 (r/w/o: 11369.50/0.00/0.00) lat (ms,95%): 4.33 err/s: 0.00 reconn/s: 0.00
+[ 60s ] thds: 32 tps: 11941.50 qps: 11941.50 (r/w/o: 11941.50/0.00/0.00) lat (ms,95%): 3.89 err/s: 0.00 reconn/s: 0.00
+[ 70s ] thds: 32 tps: 10152.62 qps: 10152.62 (r/w/o: 10152.62/0.00/0.00) lat (ms,95%): 5.57 err/s: 0.00 reconn/s: 0.00
+[ 80s ] thds: 32 tps: 11884.73 qps: 11884.73 (r/w/o: 11884.73/0.00/0.00) lat (ms,95%): 4.33 err/s: 0.00 reconn/s: 0.00
+[ 90s ] thds: 32 tps: 12396.51 qps: 12396.51 (r/w/o: 12396.51/0.00/0.00) lat (ms,95%): 4.03 err/s: 0.00 reconn/s: 0.00
+[ 100s ] thds: 32 tps: 12183.73 qps: 12183.73 (r/w/o: 12183.73/0.00/0.00) lat (ms,95%): 4.10 err/s: 0.00 reconn/s: 0.00
+[ 110s ] thds: 32 tps: 9224.76 qps: 9224.76 (r/w/o: 9224.76/0.00/0.00) lat (ms,95%): 6.21 err/s: 0.00 reconn/s: 0.00
+[ 120s ] thds: 32 tps: 11243.06 qps: 11243.06 (r/w/o: 11243.06/0.00/0.00) lat (ms,95%): 4.57 err/s: 0.00 reconn/s: 0.00
+[ 130s ] thds: 32 tps: 10555.02 qps: 10555.02 (r/w/o: 10555.02/0.00/0.00) lat (ms,95%): 5.00 err/s: 0.00 reconn/s: 0.00
+[ 140s ] thds: 32 tps: 11659.37 qps: 11659.37 (r/w/o: 11659.37/0.00/0.00) lat (ms,95%): 4.10 err/s: 0.00 reconn/s: 0.00
+[ 150s ] thds: 32 tps: 10875.62 qps: 10875.62 (r/w/o: 10875.62/0.00/0.00) lat (ms,95%): 4.65 err/s: 0.00 reconn/s: 0.00
+[ 160s ] thds: 32 tps: 9330.79 qps: 9330.79 (r/w/o: 9330.79/0.00/0.00) lat (ms,95%): 5.77 err/s: 0.00 reconn/s: 0.00
+[ 170s ] thds: 32 tps: 12072.08 qps: 12072.08 (r/w/o: 12072.08/0.00/0.00) lat (ms,95%): 4.10 err/s: 0.00 reconn/s: 0.00
+[ 180s ] thds: 32 tps: 11895.91 qps: 11895.91 (r/w/o: 11895.91/0.00/0.00) lat (ms,95%): 4.25 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            2067145
+        write:                           0
+        other:                           0
+        total:                           2067145
+    transactions:                        2067145 (11480.72 per sec.)
+    queries:                             2067145 (11480.72 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+Throughput:
+    events/s (eps):                      11480.7212
+    time elapsed:                        180.0536s
+    total number of events:              2067145
+
+Latency (ms):
+         min:                                    0.12
+         avg:                                    2.79
+         max:                                 1152.44
+         95th percentile:                        4.41
+         sum:                              5758940.72
+
+Threads fairness:
+    events (avg/stddev):           64598.2812/430.75
+    execution time (avg/stddev):   179.9669/0.02
+
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 64
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 64 tps: 11455.84 qps: 11455.84 (r/w/o: 11455.84/0.00/0.00) lat (ms,95%): 8.90 err/s: 0.00 reconn/s: 0.00
+[ 20s ] thds: 64 tps: 11592.72 qps: 11592.72 (r/w/o: 11592.72/0.00/0.00) lat (ms,95%): 8.13 err/s: 0.00 reconn/s: 0.00
+[ 30s ] thds: 64 tps: 11704.06 qps: 11704.06 (r/w/o: 11704.06/0.00/0.00) lat (ms,95%): 8.13 err/s: 0.00 reconn/s: 0.00
+[ 40s ] thds: 64 tps: 11739.46 qps: 11739.46 (r/w/o: 11739.46/0.00/0.00) lat (ms,95%): 8.43 err/s: 0.00 reconn/s: 0.00
+[ 50s ] thds: 64 tps: 11691.65 qps: 11691.65 (r/w/o: 11691.65/0.00/0.00) lat (ms,95%): 8.58 err/s: 0.00 reconn/s: 0.00
+[ 60s ] thds: 64 tps: 11171.87 qps: 11171.87 (r/w/o: 11171.87/0.00/0.00) lat (ms,95%): 9.39 err/s: 0.00 reconn/s: 0.00
+[ 70s ] thds: 64 tps: 11403.65 qps: 11403.65 (r/w/o: 11403.65/0.00/0.00) lat (ms,95%): 8.58 err/s: 0.00 reconn/s: 0.00
+[ 80s ] thds: 64 tps: 11358.07 qps: 11358.07 (r/w/o: 11358.07/0.00/0.00) lat (ms,95%): 9.06 err/s: 0.00 reconn/s: 0.00
+[ 90s ] thds: 64 tps: 11290.63 qps: 11290.63 (r/w/o: 11290.63/0.00/0.00) lat (ms,95%): 9.22 err/s: 0.00 reconn/s: 0.00
+[ 100s ] thds: 64 tps: 10365.75 qps: 10365.75 (r/w/o: 10365.75/0.00/0.00) lat (ms,95%): 10.09 err/s: 0.00 reconn/s: 0.00
+[ 110s ] thds: 64 tps: 10927.87 qps: 10927.87 (r/w/o: 10927.87/0.00/0.00) lat (ms,95%): 9.39 err/s: 0.00 reconn/s: 0.00
+[ 120s ] thds: 64 tps: 8538.12 qps: 8538.12 (r/w/o: 8538.12/0.00/0.00) lat (ms,95%): 13.46 err/s: 0.00 reconn/s: 0.00
+[ 130s ] thds: 64 tps: 11343.56 qps: 11343.56 (r/w/o: 11343.56/0.00/0.00) lat (ms,95%): 9.06 err/s: 0.00 reconn/s: 0.00
+[ 140s ] thds: 64 tps: 11643.16 qps: 11643.16 (r/w/o: 11643.16/0.00/0.00) lat (ms,95%): 8.90 err/s: 0.00 reconn/s: 0.00
+[ 150s ] thds: 64 tps: 12112.00 qps: 12112.00 (r/w/o: 12112.00/0.00/0.00) lat (ms,95%): 8.28 err/s: 0.00 reconn/s: 0.00
+[ 160s ] thds: 64 tps: 12068.41 qps: 12068.41 (r/w/o: 12068.41/0.00/0.00) lat (ms,95%): 8.28 err/s: 0.00 reconn/s: 0.00
+[ 170s ] thds: 64 tps: 11479.65 qps: 11479.65 (r/w/o: 11479.65/0.00/0.00) lat (ms,95%): 9.06 err/s: 0.00 reconn/s: 0.00
+[ 180s ] thds: 64 tps: 12215.82 qps: 12215.82 (r/w/o: 12215.82/0.00/0.00) lat (ms,95%): 7.98 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            2041713
+        write:                           0
+        other:                           0
+        total:                           2041713
+    transactions:                        2041713 (11337.53 per sec.)
+    queries:                             2041713 (11337.53 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+Throughput:
+    events/s (eps):                      11337.5339
+    time elapsed:                        180.0844s
+    total number of events:              2041713
+
+Latency (ms):
+         min:                                    0.13
+         avg:                                    5.64
+         max:                                  577.59
+         95th percentile:                        9.06
+         sum:                             11518363.53
+
+Threads fairness:
+    events (avg/stddev):           31901.7656/173.59
+    execution time (avg/stddev):   179.9744/0.04
+
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 128
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 128 tps: 11715.64 qps: 11715.64 (r/w/o: 11715.64/0.00/0.00) lat (ms,95%): 17.32 err/s: 0.00 reconn/s: 0.00
+[ 20s ] thds: 128 tps: 12034.50 qps: 12034.50 (r/w/o: 12034.50/0.00/0.00) lat (ms,95%): 15.00 err/s: 0.00 reconn/s: 0.00
+[ 30s ] thds: 128 tps: 12339.15 qps: 12339.15 (r/w/o: 12339.15/0.00/0.00) lat (ms,95%): 15.55 err/s: 0.00 reconn/s: 0.00
+[ 40s ] thds: 128 tps: 12289.27 qps: 12289.27 (r/w/o: 12289.27/0.00/0.00) lat (ms,95%): 15.27 err/s: 0.00 reconn/s: 0.00
+[ 50s ] thds: 128 tps: 12325.61 qps: 12325.61 (r/w/o: 12325.61/0.00/0.00) lat (ms,95%): 15.55 err/s: 0.00 reconn/s: 0.00
+[ 60s ] thds: 128 tps: 11863.88 qps: 11863.88 (r/w/o: 11863.88/0.00/0.00) lat (ms,95%): 16.71 err/s: 0.00 reconn/s: 0.00
+[ 70s ] thds: 128 tps: 10721.31 qps: 10721.31 (r/w/o: 10721.31/0.00/0.00) lat (ms,95%): 19.29 err/s: 0.00 reconn/s: 0.00
+[ 80s ] thds: 128 tps: 9428.13 qps: 9428.13 (r/w/o: 9428.13/0.00/0.00) lat (ms,95%): 21.50 err/s: 0.00 reconn/s: 0.00
+[ 90s ] thds: 128 tps: 8187.67 qps: 8187.67 (r/w/o: 8187.67/0.00/0.00) lat (ms,95%): 21.50 err/s: 0.00 reconn/s: 0.00
+[ 100s ] thds: 128 tps: 9946.27 qps: 9946.27 (r/w/o: 9946.27/0.00/0.00) lat (ms,95%): 20.74 err/s: 0.00 reconn/s: 0.00
+[ 110s ] thds: 128 tps: 10514.69 qps: 10514.69 (r/w/o: 10514.69/0.00/0.00) lat (ms,95%): 17.95 err/s: 0.00 reconn/s: 0.00
+[ 120s ] thds: 128 tps: 11633.89 qps: 11633.89 (r/w/o: 11633.89/0.00/0.00) lat (ms,95%): 16.71 err/s: 0.00 reconn/s: 0.00
+[ 130s ] thds: 128 tps: 11766.38 qps: 11766.38 (r/w/o: 11766.38/0.00/0.00) lat (ms,95%): 16.71 err/s: 0.00 reconn/s: 0.00
+[ 140s ] thds: 128 tps: 11654.26 qps: 11654.26 (r/w/o: 11654.26/0.00/0.00) lat (ms,95%): 17.01 err/s: 0.00 reconn/s: 0.00
+[ 150s ] thds: 128 tps: 12137.46 qps: 12137.46 (r/w/o: 12137.46/0.00/0.00) lat (ms,95%): 16.12 err/s: 0.00 reconn/s: 0.00
+[ 160s ] thds: 128 tps: 11905.99 qps: 11905.99 (r/w/o: 11905.99/0.00/0.00) lat (ms,95%): 16.41 err/s: 0.00 reconn/s: 0.00
+[ 170s ] thds: 128 tps: 11292.45 qps: 11292.45 (r/w/o: 11292.45/0.00/0.00) lat (ms,95%): 17.63 err/s: 0.00 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            2033752
+        write:                           0
+        other:                           0
+        total:                           2033752
+    transactions:                        2033752 (11288.30 per sec.)
+    queries:                             2033752 (11288.30 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+Throughput:
+    events/s (eps):                      11288.3031
+    time elapsed:                        180.1645s
+    total number of events:              2033752
+
+Latency (ms):
+         min:                                    0.12
+         avg:                                   11.32
+         max:                                 1933.05
+         95th percentile:                       17.63
+         sum:                             23025015.48
+
+Threads fairness:
+    events (avg/stddev):           15888.6875/121.19
+    execution time (avg/stddev):   179.8829/0.16
+
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 256
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: Threads initialization failed!
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 512
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: unable to connect to MySQL server on host '192.168.170.129', port 3306, aborting...
+FATAL: error 1040: Too many connections
+FATAL: `thread_init' function failed: /usr/local/sysbench/share/sysbench/oltp_common.lua:409: connection creation failed
+FATAL: Threads initialization failed!

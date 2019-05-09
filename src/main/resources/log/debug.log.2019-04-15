@@ -1,0 +1,423 @@
+2019-04-15 09:43:05  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 09:43:05  [ Thread-4:126 ] - [ INFO ]  Done!
+2019-04-15 09:43:05  [ Thread-4:129 ] - [ INFO ]  sshSession closed!
+2019-04-15 10:24:26  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 10:24:26  [ Thread-4:124 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 10:24:26  [ Thread-4:305 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 10:24:26  [ Thread-4:306 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 10:24:26  [ Thread-4:323 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 10:24:26  [ Thread-4:339 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 10:24:26  [ Thread-4:340 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 10:29:16  [ Thread-4:290026 ] - [ INFO ]  Done!
+2019-04-15 10:29:16  [ Thread-4:290042 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 10:29:16  [ Thread-4:290058 ] - [ INFO ]  file:$s download success...
+2019-04-15 10:29:16  [ Thread-4:290059 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 10:29:16  [ Thread-4:290062 ] - [ INFO ]  sshSession closed!
+2019-04-15 10:37:45  [ Thread-4:1 ] - [ INFO ]  sshSession connected...
+2019-04-15 10:37:45  [ Thread-4:113 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 10:37:45  [ Thread-4:122 ] - [ INFO ]  file:/autotest/shell/auto_deploy_master.sh upload success...
+2019-04-15 10:37:45  [ Thread-4:122 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 10:38:44  [ Thread-4:59015 ] - [ INFO ]  Done!
+2019-04-15 10:38:44  [ Thread-4:59018 ] - [ INFO ]  sshSession closed!
+2019-04-15 10:38:44  [ Thread-4:59019 ] - [ DEBUG ]  binlogName: mysql-bin.000001
+2019-04-15 10:38:44  [ Thread-4:59019 ] - [ DEBUG ]  position: 1247
+2019-04-15 10:38:44  [ Thread-7:59094 ] - [ INFO ]  sshSession connected...
+2019-04-15 10:38:44  [ Thread-7:59216 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 10:38:44  [ Thread-7:59217 ] - [ WARN ]  target directory is not exist!
+2019-04-15 10:38:44  [ Thread-7:59217 ] - [ INFO ]  success create target directory...
+2019-04-15 10:38:44  [ Thread-7:59223 ] - [ INFO ]  file:/autotest/shell/auto_deploy_slave.sh upload success...
+2019-04-15 10:38:44  [ Thread-7:59224 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 10:39:30  [ Thread-7:104857 ] - [ INFO ]  Done!
+2019-04-15 10:39:30  [ Thread-7:104858 ] - [ DEBUG ]  Replication Result: SUCCESS
+2019-04-15 10:39:30  [ Thread-7:104859 ] - [ INFO ]  sshSession closed!
+2019-04-15 10:41:44  [ Thread-10:239177 ] - [ INFO ]  sshSession connected...
+2019-04-15 10:41:44  [ Thread-10:239297 ] - [ INFO ]  Done!
+2019-04-15 10:41:44  [ Thread-10:239299 ] - [ INFO ]  sshSession closed!
+2019-04-15 10:42:05  [ Thread-13:259905 ] - [ INFO ]  sshSession connected...
+2019-04-15 10:42:05  [ Thread-13:260018 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 10:42:05  [ Thread-13:260186 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 10:42:05  [ Thread-13:260186 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 10:42:05  [ Thread-13:260201 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 10:42:05  [ Thread-13:260225 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 10:42:05  [ Thread-13:260225 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 10:48:57  [ Thread-13:671960 ] - [ INFO ]  Done!
+2019-04-15 10:48:57  [ Thread-13:671997 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 10:48:57  [ Thread-13:672001 ] - [ INFO ]  file:$s download success...
+2019-04-15 10:48:57  [ Thread-13:672001 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 10:48:57  [ Thread-13:672002 ] - [ INFO ]  sshSession closed!
+2019-04-15 11:18:01  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 11:18:01  [ Thread-4:165 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 11:18:02  [ Thread-4:358 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 11:18:02  [ Thread-4:358 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 11:18:02  [ Thread-4:376 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 11:18:02  [ Thread-4:383 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 11:18:02  [ Thread-4:384 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 11:18:02  [ Thread-4:392 ] - [ INFO ]  Done!
+2019-04-15 11:18:02  [ Thread-4:405 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 11:18:02  [ Thread-4:411 ] - [ INFO ]  sshSession closed!
+2019-04-15 11:20:51  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 11:20:52  [ Thread-4:117 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 11:20:52  [ Thread-4:297 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 11:20:52  [ Thread-4:298 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 11:20:52  [ Thread-4:314 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 11:20:52  [ Thread-4:327 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 11:20:52  [ Thread-4:327 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 11:22:00  [ Thread-4:68707 ] - [ INFO ]  Done!
+2019-04-15 11:22:00  [ Thread-4:68723 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 11:22:00  [ Thread-4:68727 ] - [ INFO ]  file:$s download success...
+2019-04-15 11:22:00  [ Thread-4:68727 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 11:22:00  [ Thread-4:68731 ] - [ INFO ]  sshSession closed!
+2019-04-15 12:23:40  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 12:23:40  [ Thread-4:117 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 12:23:40  [ Thread-4:121 ] - [ INFO ]  file:/autotest/shell/auto_deploy_master.sh upload success...
+2019-04-15 12:23:40  [ Thread-4:122 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 12:24:36  [ Thread-4:55874 ] - [ INFO ]  Done!
+2019-04-15 12:24:36  [ Thread-4:55877 ] - [ INFO ]  sshSession closed!
+2019-04-15 12:24:36  [ Thread-4:55877 ] - [ DEBUG ]  binlogName: mysql-bin.000001
+2019-04-15 12:24:36  [ Thread-4:55877 ] - [ DEBUG ]  position: 657
+2019-04-15 12:24:36  [ Thread-7:55944 ] - [ INFO ]  sshSession connected...
+2019-04-15 12:24:36  [ Thread-7:56065 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 12:24:36  [ Thread-7:56066 ] - [ WARN ]  target directory is not exist!
+2019-04-15 12:24:36  [ Thread-7:56067 ] - [ INFO ]  success create target directory...
+2019-04-15 12:24:36  [ Thread-7:56074 ] - [ INFO ]  file:/autotest/shell/auto_deploy_slave.sh upload success...
+2019-04-15 12:24:36  [ Thread-7:56074 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 12:25:35  [ Thread-7:115032 ] - [ INFO ]  Done!
+2019-04-15 12:25:35  [ Thread-7:115033 ] - [ DEBUG ]  Replication Result: SUCCESS
+2019-04-15 12:25:35  [ Thread-7:115034 ] - [ INFO ]  sshSession closed!
+2019-04-15 12:28:16  [ Thread-10:275681 ] - [ INFO ]  sshSession connected...
+2019-04-15 12:28:16  [ Thread-10:275807 ] - [ INFO ]  Done!
+2019-04-15 12:28:16  [ Thread-10:275808 ] - [ INFO ]  sshSession closed!
+2019-04-15 12:28:25  [ Thread-13:285435 ] - [ INFO ]  sshSession connected...
+2019-04-15 12:28:25  [ Thread-13:285546 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 12:28:26  [ Thread-13:285739 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 12:28:26  [ Thread-13:285739 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 12:28:26  [ Thread-13:285755 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 12:28:26  [ Thread-13:285774 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 12:28:26  [ Thread-13:285775 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 12:42:17  [ Thread-13:1116712 ] - [ INFO ]  Done!
+2019-04-15 12:42:17  [ Thread-13:1116714 ] - [ INFO ]  channel-exec closed!
+2019-04-15 12:42:17  [ Thread-13:1116747 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 12:42:17  [ Thread-13:1116751 ] - [ INFO ]  file:$s download success...
+2019-04-15 12:42:17  [ Thread-13:1116751 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 12:42:17  [ Thread-13:1116751 ] - [ INFO ]  sshSession closed!
+2019-04-15 14:29:15  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 14:29:15  [ Thread-4:240 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:29:15  [ Thread-4:451 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 14:29:15  [ Thread-4:451 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:29:15  [ Thread-4:471 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:29:15  [ Thread-4:481 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 14:29:15  [ Thread-4:481 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:30:42  [ Thread-4:87272 ] - [ INFO ]  Done!
+2019-04-15 14:30:42  [ Thread-4:87286 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:30:42  [ Thread-4:87290 ] - [ INFO ]  file:$s download success...
+2019-04-15 14:30:42  [ Thread-4:87290 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:30:42  [ Thread-4:87294 ] - [ INFO ]  sshSession closed!
+2019-04-15 14:33:57  [ Thread-7:282636 ] - [ INFO ]  sshSession connected...
+2019-04-15 14:33:57  [ Thread-7:282786 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:33:58  [ Thread-7:283041 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 14:33:58  [ Thread-7:283041 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:33:58  [ Thread-7:283056 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:33:58  [ Thread-7:283058 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 14:33:58  [ Thread-7:283058 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:36:44  [ Thread-7:449367 ] - [ INFO ]  Done!
+2019-04-15 14:36:44  [ Thread-7:449389 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:36:44  [ Thread-7:449394 ] - [ INFO ]  file:$s download success...
+2019-04-15 14:36:44  [ Thread-7:449394 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:36:44  [ Thread-7:449395 ] - [ INFO ]  sshSession closed!
+2019-04-15 14:50:48  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 14:50:48  [ Thread-4:171 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:50:48  [ Thread-4:365 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 14:50:48  [ Thread-4:366 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:50:48  [ Thread-4:384 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:50:48  [ Thread-4:398 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 14:50:48  [ Thread-4:399 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:50:58  [ Thread-4:10434 ] - [ INFO ]  Done!
+2019-04-15 14:50:58  [ Thread-4:10446 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:50:58  [ Thread-4:10451 ] - [ INFO ]  sshSession closed!
+2019-04-15 14:56:11  [ Thread-7:323388 ] - [ INFO ]  sshSession connected...
+2019-04-15 14:56:11  [ Thread-7:323516 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:56:11  [ Thread-7:323684 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 14:56:11  [ Thread-7:323684 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:56:11  [ Thread-7:323698 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:56:11  [ Thread-7:323710 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 14:56:11  [ Thread-7:323711 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:56:21  [ Thread-7:333722 ] - [ INFO ]  Done!
+2019-04-15 14:56:21  [ Thread-7:333735 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:56:21  [ Thread-7:333738 ] - [ INFO ]  sshSession closed!
+2019-04-15 14:56:39  [ Thread-10:351847 ] - [ INFO ]  sshSession connected...
+2019-04-15 14:56:40  [ ForkJoinPool.commonPool-worker-1:351949 ] - [ INFO ]  Done!
+2019-04-15 14:56:41  [ ForkJoinPool.commonPool-worker-1:353858 ] - [ INFO ]  Done!
+2019-04-15 14:56:43  [ ForkJoinPool.commonPool-worker-1:355859 ] - [ INFO ]  Done!
+2019-04-15 14:56:45  [ ForkJoinPool.commonPool-worker-1:357868 ] - [ INFO ]  Done!
+2019-04-15 14:56:47  [ ForkJoinPool.commonPool-worker-1:359859 ] - [ INFO ]  Done!
+2019-04-15 14:56:49  [ ForkJoinPool.commonPool-worker-1:361859 ] - [ INFO ]  Done!
+2019-04-15 14:56:51  [ ForkJoinPool.commonPool-worker-1:363860 ] - [ INFO ]  Done!
+2019-04-15 14:56:53  [ ForkJoinPool.commonPool-worker-1:365860 ] - [ INFO ]  Done!
+2019-04-15 14:56:55  [ Thread-10:367858 ] - [ INFO ]  sshSession closed!
+2019-04-15 14:58:19  [ Thread-13:451595 ] - [ INFO ]  sshSession connected...
+2019-04-15 14:58:19  [ Thread-13:451700 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:58:19  [ Thread-13:451860 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 14:58:19  [ Thread-13:451860 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:58:19  [ Thread-13:451873 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:58:19  [ Thread-13:451887 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 14:58:19  [ Thread-13:451888 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:58:30  [ Thread-13:461912 ] - [ INFO ]  Done!
+2019-04-15 14:58:30  [ Thread-13:461928 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:58:30  [ Thread-13:461934 ] - [ INFO ]  sshSession closed!
+2019-04-15 14:59:19  [ Thread-16:511092 ] - [ INFO ]  sshSession connected...
+2019-04-15 14:59:19  [ Thread-16:511197 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:59:19  [ Thread-16:511376 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 14:59:19  [ Thread-16:511376 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:59:19  [ Thread-16:511390 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:59:19  [ Thread-16:511406 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 14:59:19  [ Thread-16:511406 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 14:59:29  [ Thread-16:521421 ] - [ INFO ]  Done!
+2019-04-15 14:59:29  [ Thread-16:521433 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 14:59:29  [ Thread-16:521436 ] - [ INFO ]  sshSession closed!
+2019-04-15 15:02:12  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 15:02:12  [ Thread-4:110 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:02:12  [ Thread-4:303 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 15:02:12  [ Thread-4:304 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:02:12  [ Thread-4:321 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:02:12  [ Thread-4:325 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 15:02:12  [ Thread-4:326 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:03:19  [ JavaFX Application Thread:66680 ] - [ INFO ]  sshSession connected...
+2019-04-15 15:03:19  [ JavaFX Application Thread:66946 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:03:19  [ JavaFX Application Thread:66964 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-15 15:03:19  [ JavaFX Application Thread:66965 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:07:37  [ Thread-4:324754 ] - [ INFO ]  Done!
+2019-04-15 15:07:37  [ Thread-4:324771 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:07:37  [ Thread-4:324775 ] - [ INFO ]  file:$s download success...
+2019-04-15 15:07:37  [ Thread-4:324775 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:07:37  [ Thread-4:324779 ] - [ INFO ]  sshSession closed!
+2019-04-15 15:07:51  [ JavaFX Application Thread:339460 ] - [ INFO ]  Done!
+2019-04-15 15:07:51  [ JavaFX Application Thread:339461 ] - [ INFO ]  sshSession closed!
+2019-04-15 15:07:51  [ JavaFX Application Thread:339462 ] - [ DEBUG ]  Master init result: 0
+2019-04-15 15:07:51  [ JavaFX Application Thread:339520 ] - [ INFO ]  sshSession connected...
+2019-04-15 15:07:52  [ JavaFX Application Thread:339665 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:07:52  [ JavaFX Application Thread:339669 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-15 15:07:52  [ JavaFX Application Thread:339670 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:08:57  [ JavaFX Application Thread:405282 ] - [ INFO ]  Done!
+2019-04-15 15:08:57  [ JavaFX Application Thread:405283 ] - [ INFO ]  sshSession closed!
+2019-04-15 15:08:57  [ JavaFX Application Thread:405284 ] - [ DEBUG ]  Master init result: 0
+2019-04-15 15:10:10  [ Thread-11:478365 ] - [ INFO ]  sshSession connected...
+2019-04-15 15:10:12  [ ForkJoinPool.commonPool-worker-1:480018 ] - [ INFO ]  Done!
+2019-04-15 15:10:13  [ ForkJoinPool.commonPool-worker-1:481017 ] - [ INFO ]  Done!
+2019-04-15 15:10:15  [ ForkJoinPool.commonPool-worker-1:483017 ] - [ INFO ]  Done!
+2019-04-15 15:10:16  [ Thread-11:484377 ] - [ INFO ]  sshSession closed!
+2019-04-15 15:10:35  [ Thread-14:503464 ] - [ INFO ]  sshSession connected...
+2019-04-15 15:10:35  [ Thread-14:503575 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:10:36  [ Thread-14:503737 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 15:10:36  [ Thread-14:503737 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:10:36  [ Thread-14:503752 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:10:36  [ Thread-14:503769 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 15:10:36  [ Thread-14:503769 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:11:05  [ Thread-17:533300 ] - [ INFO ]  sshSession connected...
+2019-04-15 15:11:07  [ ForkJoinPool.commonPool-worker-2:535020 ] - [ INFO ]  Done!
+2019-04-15 15:11:09  [ ForkJoinPool.commonPool-worker-2:537019 ] - [ INFO ]  Done!
+2019-04-15 15:11:11  [ ForkJoinPool.commonPool-worker-2:539019 ] - [ INFO ]  Done!
+2019-04-15 15:11:13  [ ForkJoinPool.commonPool-worker-2:541019 ] - [ INFO ]  Done!
+2019-04-15 15:11:15  [ ForkJoinPool.commonPool-worker-2:543021 ] - [ INFO ]  Done!
+2019-04-15 15:11:17  [ ForkJoinPool.commonPool-worker-2:545019 ] - [ INFO ]  Done!
+2019-04-15 15:11:19  [ ForkJoinPool.commonPool-worker-2:547020 ] - [ INFO ]  Done!
+2019-04-15 15:11:21  [ ForkJoinPool.commonPool-worker-2:549020 ] - [ INFO ]  Done!
+2019-04-15 15:11:23  [ ForkJoinPool.commonPool-worker-2:551021 ] - [ INFO ]  Done!
+2019-04-15 15:11:25  [ ForkJoinPool.commonPool-worker-2:553019 ] - [ INFO ]  Done!
+2019-04-15 15:11:27  [ ForkJoinPool.commonPool-worker-2:555021 ] - [ INFO ]  Done!
+2019-04-15 15:11:29  [ ForkJoinPool.commonPool-worker-2:557020 ] - [ INFO ]  Done!
+2019-04-15 15:11:31  [ ForkJoinPool.commonPool-worker-2:559020 ] - [ INFO ]  Done!
+2019-04-15 15:11:33  [ ForkJoinPool.commonPool-worker-2:561020 ] - [ INFO ]  Done!
+2019-04-15 15:11:35  [ ForkJoinPool.commonPool-worker-2:563020 ] - [ INFO ]  Done!
+2019-04-15 15:11:37  [ ForkJoinPool.commonPool-worker-2:565021 ] - [ INFO ]  Done!
+2019-04-15 15:11:39  [ ForkJoinPool.commonPool-worker-2:567021 ] - [ INFO ]  Done!
+2019-04-15 15:11:41  [ ForkJoinPool.commonPool-worker-2:569020 ] - [ INFO ]  Done!
+2019-04-15 15:11:43  [ ForkJoinPool.commonPool-worker-2:571021 ] - [ INFO ]  Done!
+2019-04-15 15:11:45  [ ForkJoinPool.commonPool-worker-2:573021 ] - [ INFO ]  Done!
+2019-04-15 15:11:47  [ ForkJoinPool.commonPool-worker-2:575020 ] - [ INFO ]  Done!
+2019-04-15 15:11:49  [ ForkJoinPool.commonPool-worker-2:577021 ] - [ INFO ]  Done!
+2019-04-15 15:11:51  [ ForkJoinPool.commonPool-worker-2:579021 ] - [ INFO ]  Done!
+2019-04-15 15:11:53  [ ForkJoinPool.commonPool-worker-2:581021 ] - [ INFO ]  Done!
+2019-04-15 15:11:55  [ ForkJoinPool.commonPool-worker-2:583028 ] - [ INFO ]  Done!
+2019-04-15 15:11:57  [ ForkJoinPool.commonPool-worker-2:585021 ] - [ INFO ]  Done!
+2019-04-15 15:11:59  [ ForkJoinPool.commonPool-worker-2:587021 ] - [ INFO ]  Done!
+2019-04-15 15:12:01  [ ForkJoinPool.commonPool-worker-2:589021 ] - [ INFO ]  Done!
+2019-04-15 15:12:03  [ ForkJoinPool.commonPool-worker-2:591021 ] - [ INFO ]  Done!
+2019-04-15 15:12:05  [ ForkJoinPool.commonPool-worker-2:593022 ] - [ INFO ]  Done!
+2019-04-15 15:12:07  [ ForkJoinPool.commonPool-worker-2:595021 ] - [ INFO ]  Done!
+2019-04-15 15:12:09  [ ForkJoinPool.commonPool-worker-2:597023 ] - [ INFO ]  Done!
+2019-04-15 15:12:11  [ ForkJoinPool.commonPool-worker-2:599025 ] - [ INFO ]  Done!
+2019-04-15 15:12:11  [ ForkJoinPool.commonPool-worker-2:599025 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:12:13  [ ForkJoinPool.commonPool-worker-2:601025 ] - [ INFO ]  Done!
+2019-04-15 15:12:15  [ ForkJoinPool.commonPool-worker-2:603021 ] - [ INFO ]  Done!
+2019-04-15 15:12:17  [ ForkJoinPool.commonPool-worker-2:605022 ] - [ INFO ]  Done!
+2019-04-15 15:12:19  [ ForkJoinPool.commonPool-worker-2:607022 ] - [ INFO ]  Done!
+2019-04-15 15:12:21  [ ForkJoinPool.commonPool-worker-2:609022 ] - [ INFO ]  Done!
+2019-04-15 15:12:23  [ ForkJoinPool.commonPool-worker-2:611022 ] - [ INFO ]  Done!
+2019-04-15 15:12:25  [ ForkJoinPool.commonPool-worker-2:613022 ] - [ INFO ]  Done!
+2019-04-15 15:12:25  [ ForkJoinPool.commonPool-worker-2:613022 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:12:27  [ ForkJoinPool.commonPool-worker-2:615022 ] - [ INFO ]  Done!
+2019-04-15 15:12:29  [ ForkJoinPool.commonPool-worker-2:617022 ] - [ INFO ]  Done!
+2019-04-15 15:12:31  [ ForkJoinPool.commonPool-worker-2:619022 ] - [ INFO ]  Done!
+2019-04-15 15:12:33  [ ForkJoinPool.commonPool-worker-2:621026 ] - [ INFO ]  Done!
+2019-04-15 15:12:35  [ ForkJoinPool.commonPool-worker-2:623022 ] - [ INFO ]  Done!
+2019-04-15 15:12:37  [ ForkJoinPool.commonPool-worker-2:625023 ] - [ INFO ]  Done!
+2019-04-15 15:12:39  [ ForkJoinPool.commonPool-worker-2:627023 ] - [ INFO ]  Done!
+2019-04-15 15:12:39  [ ForkJoinPool.commonPool-worker-2:627024 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:12:41  [ ForkJoinPool.commonPool-worker-2:629022 ] - [ INFO ]  Done!
+2019-04-15 15:12:43  [ ForkJoinPool.commonPool-worker-2:631022 ] - [ INFO ]  Done!
+2019-04-15 15:12:45  [ ForkJoinPool.commonPool-worker-2:633022 ] - [ INFO ]  Done!
+2019-04-15 15:12:47  [ ForkJoinPool.commonPool-worker-2:635024 ] - [ INFO ]  Done!
+2019-04-15 15:12:49  [ ForkJoinPool.commonPool-worker-2:637022 ] - [ INFO ]  Done!
+2019-04-15 15:12:51  [ ForkJoinPool.commonPool-worker-2:639022 ] - [ INFO ]  Done!
+2019-04-15 15:12:53  [ ForkJoinPool.commonPool-worker-2:641024 ] - [ INFO ]  Done!
+2019-04-15 15:12:53  [ ForkJoinPool.commonPool-worker-2:641024 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:12:55  [ ForkJoinPool.commonPool-worker-2:643023 ] - [ INFO ]  Done!
+2019-04-15 15:12:57  [ ForkJoinPool.commonPool-worker-2:645024 ] - [ INFO ]  Done!
+2019-04-15 15:12:59  [ ForkJoinPool.commonPool-worker-2:647024 ] - [ INFO ]  Done!
+2019-04-15 15:12:59  [ ForkJoinPool.commonPool-worker-2:647024 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:13:01  [ ForkJoinPool.commonPool-worker-2:649022 ] - [ INFO ]  Done!
+2019-04-15 15:13:03  [ ForkJoinPool.commonPool-worker-2:651025 ] - [ INFO ]  Done!
+2019-04-15 15:13:05  [ ForkJoinPool.commonPool-worker-2:653024 ] - [ INFO ]  Done!
+2019-04-15 15:13:05  [ ForkJoinPool.commonPool-worker-2:653024 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:13:07  [ ForkJoinPool.commonPool-worker-2:655024 ] - [ INFO ]  Done!
+2019-04-15 15:13:07  [ ForkJoinPool.commonPool-worker-2:655024 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:13:09  [ ForkJoinPool.commonPool-worker-2:657024 ] - [ INFO ]  Done!
+2019-04-15 15:13:11  [ ForkJoinPool.commonPool-worker-2:659023 ] - [ INFO ]  Done!
+2019-04-15 15:13:13  [ ForkJoinPool.commonPool-worker-2:661023 ] - [ INFO ]  Done!
+2019-04-15 15:13:13  [ ForkJoinPool.commonPool-worker-2:661024 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:13:15  [ ForkJoinPool.commonPool-worker-2:663024 ] - [ INFO ]  Done!
+2019-04-15 15:13:15  [ ForkJoinPool.commonPool-worker-2:663024 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:13:17  [ ForkJoinPool.commonPool-worker-2:665023 ] - [ INFO ]  Done!
+2019-04-15 15:13:19  [ ForkJoinPool.commonPool-worker-2:667027 ] - [ INFO ]  Done!
+2019-04-15 15:13:19  [ ForkJoinPool.commonPool-worker-2:667027 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:13:21  [ ForkJoinPool.commonPool-worker-2:669024 ] - [ INFO ]  Done!
+2019-04-15 15:13:23  [ ForkJoinPool.commonPool-worker-2:671024 ] - [ INFO ]  Done!
+2019-04-15 15:13:25  [ ForkJoinPool.commonPool-worker-2:673023 ] - [ INFO ]  Done!
+2019-04-15 15:13:25  [ ForkJoinPool.commonPool-worker-2:673024 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:13:27  [ ForkJoinPool.commonPool-worker-2:675023 ] - [ INFO ]  Done!
+2019-04-15 15:13:29  [ ForkJoinPool.commonPool-worker-2:677024 ] - [ INFO ]  Done!
+2019-04-15 15:13:31  [ ForkJoinPool.commonPool-worker-2:679024 ] - [ INFO ]  Done!
+2019-04-15 15:13:33  [ ForkJoinPool.commonPool-worker-2:681023 ] - [ INFO ]  Done!
+2019-04-15 15:13:35  [ ForkJoinPool.commonPool-worker-2:683023 ] - [ INFO ]  Done!
+2019-04-15 15:13:37  [ ForkJoinPool.commonPool-worker-2:685024 ] - [ INFO ]  Done!
+2019-04-15 15:13:39  [ ForkJoinPool.commonPool-worker-2:687024 ] - [ INFO ]  Done!
+2019-04-15 15:13:41  [ ForkJoinPool.commonPool-worker-2:689025 ] - [ INFO ]  Done!
+2019-04-15 15:13:43  [ ForkJoinPool.commonPool-worker-2:691024 ] - [ INFO ]  Done!
+2019-04-15 15:13:45  [ ForkJoinPool.commonPool-worker-2:693026 ] - [ INFO ]  Done!
+2019-04-15 15:13:47  [ ForkJoinPool.commonPool-worker-2:695024 ] - [ INFO ]  Done!
+2019-04-15 15:13:49  [ ForkJoinPool.commonPool-worker-2:697024 ] - [ INFO ]  Done!
+2019-04-15 15:13:51  [ ForkJoinPool.commonPool-worker-2:699025 ] - [ INFO ]  Done!
+2019-04-15 15:13:53  [ ForkJoinPool.commonPool-worker-2:701024 ] - [ INFO ]  Done!
+2019-04-15 15:13:55  [ ForkJoinPool.commonPool-worker-2:703024 ] - [ INFO ]  Done!
+2019-04-15 15:13:57  [ ForkJoinPool.commonPool-worker-2:705024 ] - [ INFO ]  Done!
+2019-04-15 15:13:59  [ ForkJoinPool.commonPool-worker-2:707024 ] - [ INFO ]  Done!
+2019-04-15 15:14:01  [ ForkJoinPool.commonPool-worker-2:709024 ] - [ INFO ]  Done!
+2019-04-15 15:14:03  [ ForkJoinPool.commonPool-worker-2:711025 ] - [ INFO ]  Done!
+2019-04-15 15:14:05  [ ForkJoinPool.commonPool-worker-2:713025 ] - [ INFO ]  Done!
+2019-04-15 15:14:07  [ ForkJoinPool.commonPool-worker-2:715024 ] - [ INFO ]  Done!
+2019-04-15 15:14:09  [ ForkJoinPool.commonPool-worker-2:717024 ] - [ INFO ]  Done!
+2019-04-15 15:14:11  [ ForkJoinPool.commonPool-worker-2:719024 ] - [ INFO ]  Done!
+2019-04-15 15:14:13  [ ForkJoinPool.commonPool-worker-2:721028 ] - [ INFO ]  Done!
+2019-04-15 15:14:13  [ ForkJoinPool.commonPool-worker-2:721028 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:14:15  [ ForkJoinPool.commonPool-worker-2:723025 ] - [ INFO ]  Done!
+2019-04-15 15:14:15  [ ForkJoinPool.commonPool-worker-2:723025 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:14:17  [ ForkJoinPool.commonPool-worker-2:725025 ] - [ INFO ]  Done!
+2019-04-15 15:14:19  [ ForkJoinPool.commonPool-worker-2:727024 ] - [ INFO ]  Done!
+2019-04-15 15:14:21  [ ForkJoinPool.commonPool-worker-2:729025 ] - [ INFO ]  Done!
+2019-04-15 15:14:23  [ ForkJoinPool.commonPool-worker-2:731027 ] - [ INFO ]  Done!
+2019-04-15 15:14:25  [ ForkJoinPool.commonPool-worker-2:733028 ] - [ INFO ]  Done!
+2019-04-15 15:14:27  [ ForkJoinPool.commonPool-worker-2:735025 ] - [ INFO ]  Done!
+2019-04-15 15:14:29  [ ForkJoinPool.commonPool-worker-2:737025 ] - [ INFO ]  Done!
+2019-04-15 15:14:31  [ ForkJoinPool.commonPool-worker-2:739026 ] - [ INFO ]  Done!
+2019-04-15 15:14:33  [ ForkJoinPool.commonPool-worker-2:741029 ] - [ INFO ]  Done!
+2019-04-15 15:14:33  [ ForkJoinPool.commonPool-worker-2:741030 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:14:35  [ ForkJoinPool.commonPool-worker-2:743026 ] - [ INFO ]  Done!
+2019-04-15 15:14:35  [ ForkJoinPool.commonPool-worker-2:743026 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:14:37  [ ForkJoinPool.commonPool-worker-2:745030 ] - [ INFO ]  Done!
+2019-04-15 15:14:37  [ ForkJoinPool.commonPool-worker-2:745030 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:14:39  [ ForkJoinPool.commonPool-worker-2:747025 ] - [ INFO ]  Done!
+2019-04-15 15:14:39  [ ForkJoinPool.commonPool-worker-2:747026 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:14:41  [ ForkJoinPool.commonPool-worker-2:749025 ] - [ INFO ]  Done!
+2019-04-15 15:14:43  [ ForkJoinPool.commonPool-worker-2:751025 ] - [ INFO ]  Done!
+2019-04-15 15:14:45  [ ForkJoinPool.commonPool-worker-2:753025 ] - [ INFO ]  Done!
+2019-04-15 15:14:47  [ ForkJoinPool.commonPool-worker-2:755028 ] - [ INFO ]  Done!
+2019-04-15 15:14:47  [ ForkJoinPool.commonPool-worker-2:755028 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:14:49  [ ForkJoinPool.commonPool-worker-2:757026 ] - [ INFO ]  Done!
+2019-04-15 15:14:51  [ ForkJoinPool.commonPool-worker-2:759027 ] - [ INFO ]  Done!
+2019-04-15 15:14:51  [ ForkJoinPool.commonPool-worker-2:759027 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:14:53  [ ForkJoinPool.commonPool-worker-2:761026 ] - [ INFO ]  Done!
+2019-04-15 15:14:55  [ ForkJoinPool.commonPool-worker-2:763025 ] - [ INFO ]  Done!
+2019-04-15 15:14:57  [ ForkJoinPool.commonPool-worker-2:765026 ] - [ INFO ]  Done!
+2019-04-15 15:14:59  [ ForkJoinPool.commonPool-worker-2:767027 ] - [ INFO ]  Done!
+2019-04-15 15:14:59  [ ForkJoinPool.commonPool-worker-2:767027 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:15:01  [ ForkJoinPool.commonPool-worker-2:769026 ] - [ INFO ]  Done!
+2019-04-15 15:15:01  [ ForkJoinPool.commonPool-worker-2:769026 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:15:03  [ ForkJoinPool.commonPool-worker-2:771025 ] - [ INFO ]  Done!
+2019-04-15 15:15:05  [ ForkJoinPool.commonPool-worker-2:773034 ] - [ INFO ]  Done!
+2019-04-15 15:15:07  [ ForkJoinPool.commonPool-worker-2:775025 ] - [ INFO ]  Done!
+2019-04-15 15:15:09  [ ForkJoinPool.commonPool-worker-2:777025 ] - [ INFO ]  Done!
+2019-04-15 15:15:11  [ ForkJoinPool.commonPool-worker-2:779026 ] - [ INFO ]  Done!
+2019-04-15 15:15:13  [ ForkJoinPool.commonPool-worker-2:781032 ] - [ INFO ]  Done!
+2019-04-15 15:15:15  [ ForkJoinPool.commonPool-worker-2:783027 ] - [ INFO ]  Done!
+2019-04-15 15:15:17  [ ForkJoinPool.commonPool-worker-2:785026 ] - [ INFO ]  Done!
+2019-04-15 15:15:19  [ ForkJoinPool.commonPool-worker-2:787027 ] - [ INFO ]  Done!
+2019-04-15 15:15:21  [ ForkJoinPool.commonPool-worker-2:789026 ] - [ INFO ]  Done!
+2019-04-15 15:15:23  [ ForkJoinPool.commonPool-worker-2:791026 ] - [ INFO ]  Done!
+2019-04-15 15:15:25  [ ForkJoinPool.commonPool-worker-2:793027 ] - [ INFO ]  Done!
+2019-04-15 15:15:27  [ ForkJoinPool.commonPool-worker-2:795027 ] - [ INFO ]  Done!
+2019-04-15 15:15:29  [ ForkJoinPool.commonPool-worker-2:797026 ] - [ INFO ]  Done!
+2019-04-15 15:15:31  [ ForkJoinPool.commonPool-worker-2:799026 ] - [ INFO ]  Done!
+2019-04-15 15:15:33  [ ForkJoinPool.commonPool-worker-2:801026 ] - [ INFO ]  Done!
+2019-04-15 15:15:35  [ ForkJoinPool.commonPool-worker-2:803027 ] - [ INFO ]  Done!
+2019-04-15 15:15:37  [ ForkJoinPool.commonPool-worker-2:805027 ] - [ INFO ]  Done!
+2019-04-15 15:15:39  [ ForkJoinPool.commonPool-worker-2:807027 ] - [ INFO ]  Done!
+2019-04-15 15:15:41  [ ForkJoinPool.commonPool-worker-2:809026 ] - [ INFO ]  Done!
+2019-04-15 15:15:43  [ ForkJoinPool.commonPool-worker-2:811026 ] - [ INFO ]  Done!
+2019-04-15 15:15:45  [ ForkJoinPool.commonPool-worker-2:813027 ] - [ INFO ]  Done!
+2019-04-15 15:15:45  [ ForkJoinPool.commonPool-worker-2:813028 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:15:47  [ ForkJoinPool.commonPool-worker-2:815028 ] - [ INFO ]  Done!
+2019-04-15 15:15:49  [ ForkJoinPool.commonPool-worker-2:817030 ] - [ INFO ]  Done!
+2019-04-15 15:15:51  [ ForkJoinPool.commonPool-worker-2:819028 ] - [ INFO ]  Done!
+2019-04-15 15:15:52  [ ForkJoinPool.commonPool-worker-2:820029 ] - [ INFO ]  Done!
+2019-04-15 15:15:54  [ ForkJoinPool.commonPool-worker-2:822034 ] - [ INFO ]  Done!
+2019-04-15 15:15:56  [ ForkJoinPool.commonPool-worker-2:824027 ] - [ INFO ]  Done!
+2019-04-15 15:15:58  [ ForkJoinPool.commonPool-worker-2:826026 ] - [ INFO ]  Done!
+2019-04-15 15:16:00  [ ForkJoinPool.commonPool-worker-2:828034 ] - [ INFO ]  Done!
+2019-04-15 15:16:01  [ Thread-14:829199 ] - [ INFO ]  Done!
+2019-04-15 15:16:01  [ Thread-14:829211 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:16:01  [ Thread-14:829215 ] - [ INFO ]  file:$s download success...
+2019-04-15 15:16:01  [ Thread-14:829215 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:16:01  [ Thread-14:829216 ] - [ INFO ]  sshSession closed!
+2019-04-15 15:16:02  [ ForkJoinPool.commonPool-worker-2:830031 ] - [ INFO ]  Done!
+2019-04-15 15:16:04  [ ForkJoinPool.commonPool-worker-2:832027 ] - [ INFO ]  Done!
+2019-04-15 15:16:06  [ ForkJoinPool.commonPool-worker-2:834028 ] - [ INFO ]  Done!
+2019-04-15 15:16:08  [ ForkJoinPool.commonPool-worker-2:836028 ] - [ INFO ]  Done!
+2019-04-15 15:16:11  [ ForkJoinPool.commonPool-worker-2:839031 ] - [ INFO ]  Done!
+2019-04-15 15:16:12  [ ForkJoinPool.commonPool-worker-2:840028 ] - [ INFO ]  Done!
+2019-04-15 15:16:14  [ ForkJoinPool.commonPool-worker-2:842028 ] - [ INFO ]  Done!
+2019-04-15 15:16:16  [ ForkJoinPool.commonPool-worker-2:844036 ] - [ INFO ]  Done!
+2019-04-15 15:16:16  [ ForkJoinPool.commonPool-worker-2:844036 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:16:19  [ ForkJoinPool.commonPool-worker-2:847029 ] - [ INFO ]  Done!
+2019-04-15 15:16:20  [ ForkJoinPool.commonPool-worker-2:848027 ] - [ INFO ]  Done!
+2019-04-15 15:16:22  [ ForkJoinPool.commonPool-worker-2:850028 ] - [ INFO ]  Done!
+2019-04-15 15:16:24  [ ForkJoinPool.commonPool-worker-2:852028 ] - [ INFO ]  Done!
+2019-04-15 15:16:26  [ ForkJoinPool.commonPool-worker-2:854029 ] - [ INFO ]  Done!
+2019-04-15 15:26:32  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-15 15:26:32  [ Thread-4:147 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:26:32  [ Thread-4:412 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
+2019-04-15 15:26:32  [ Thread-4:413 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:26:32  [ Thread-4:432 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:26:32  [ Thread-4:443 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-04-15 15:26:32  [ Thread-4:444 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:27:55  [ Thread-4:83475 ] - [ INFO ]  Done!
+2019-04-15 15:27:55  [ Thread-4:83476 ] - [ INFO ]  channel-exec closed!
+2019-04-15 15:27:55  [ Thread-4:83509 ] - [ INFO ]  channel-sftp connected...
+2019-04-15 15:27:56  [ Thread-4:83514 ] - [ INFO ]  file:$s download success...
+2019-04-15 15:27:56  [ Thread-4:83515 ] - [ INFO ]  channel-sftp closed!
+2019-04-15 15:27:56  [ Thread-4:83520 ] - [ INFO ]  sshSession closed!
+2019-04-15 15:29:44  [ Thread-7:191769 ] - [ INFO ]  sshSession connected...
+2019-04-15 15:29:45  [ ForkJoinPool.commonPool-worker-1:192929 ] - [ INFO ]  Done!
+2019-04-15 15:29:47  [ ForkJoinPool.commonPool-worker-1:194929 ] - [ INFO ]  Done!
+2019-04-15 15:29:49  [ ForkJoinPool.commonPool-worker-1:196931 ] - [ INFO ]  Done!
+2019-04-15 15:29:51  [ ForkJoinPool.commonPool-worker-1:198928 ] - [ INFO ]  Done!
+2019-04-15 15:29:52  [ Thread-7:199783 ] - [ INFO ]  sshSession closed!

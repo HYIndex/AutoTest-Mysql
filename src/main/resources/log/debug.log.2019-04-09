@@ -1,0 +1,262 @@
+2019-04-09 10:04:45  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:04:45  [ JavaFX Application Thread:106 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:04:45  [ JavaFX Application Thread:116 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:04:45  [ JavaFX Application Thread:116 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:05:42  [ JavaFX Application Thread:56794 ] - [ INFO ]  Done!
+2019-04-09 10:05:42  [ JavaFX Application Thread:56808 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:05:42  [ JavaFX Application Thread:56808 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:05:42  [ JavaFX Application Thread:56898 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:05:42  [ JavaFX Application Thread:56998 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:05:42  [ JavaFX Application Thread:57001 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:05:42  [ JavaFX Application Thread:57001 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:06:43  [ JavaFX Application Thread:117454 ] - [ INFO ]  Done!
+2019-04-09 10:06:43  [ JavaFX Application Thread:117454 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:06:43  [ JavaFX Application Thread:117455 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:10:44  [ JavaFX Application Thread:358820 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:10:44  [ JavaFX Application Thread:358931 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:10:44  [ JavaFX Application Thread:358933 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:10:44  [ JavaFX Application Thread:358933 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:10:52  [ JavaFX Application Thread:366727 ] - [ INFO ]  Done!
+2019-04-09 10:10:52  [ JavaFX Application Thread:366729 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:10:52  [ JavaFX Application Thread:366731 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:10:52  [ JavaFX Application Thread:366821 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:10:52  [ JavaFX Application Thread:366921 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:10:52  [ JavaFX Application Thread:366926 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:10:52  [ JavaFX Application Thread:366926 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:11:26  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:11:26  [ JavaFX Application Thread:110 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:11:26  [ JavaFX Application Thread:120 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:11:26  [ JavaFX Application Thread:120 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:12:24  [ JavaFX Application Thread:57800 ] - [ INFO ]  Done!
+2019-04-09 10:15:06  [ JavaFX Application Thread:219844 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:15:06  [ JavaFX Application Thread:219846 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:15:43  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:15:43  [ JavaFX Application Thread:103 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:15:43  [ JavaFX Application Thread:120 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:15:43  [ JavaFX Application Thread:120 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:15:54  [ JavaFX Application Thread:10800 ] - [ INFO ]  Done!
+2019-04-09 10:18:11  [ JavaFX Application Thread:148292 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:18:11  [ JavaFX Application Thread:148293 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:18:11  [ JavaFX Application Thread:148351 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:18:34  [ JavaFX Application Thread:1 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:18:34  [ JavaFX Application Thread:107 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:18:34  [ JavaFX Application Thread:114 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:18:34  [ JavaFX Application Thread:114 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:18:43  [ JavaFX Application Thread:9145 ] - [ INFO ]  Done!
+2019-04-09 10:20:13  [ JavaFX Application Thread:99029 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:20:13  [ JavaFX Application Thread:99030 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:20:46  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:20:46  [ JavaFX Application Thread:106 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:20:46  [ JavaFX Application Thread:113 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:20:46  [ JavaFX Application Thread:113 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:20:56  [ JavaFX Application Thread:10545 ] - [ INFO ]  Done!
+2019-04-09 10:21:31  [ JavaFX Application Thread:45375 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:21:31  [ JavaFX Application Thread:45375 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:21:31  [ JavaFX Application Thread:45427 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:21:52  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:21:52  [ JavaFX Application Thread:102 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:21:52  [ JavaFX Application Thread:122 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:21:52  [ JavaFX Application Thread:123 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:38:38  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:38:38  [ JavaFX Application Thread:129 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:38:39  [ JavaFX Application Thread:136 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:38:39  [ JavaFX Application Thread:137 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:38:50  [ JavaFX Application Thread:11660 ] - [ INFO ]  Done!
+2019-04-09 10:39:51  [ JavaFX Application Thread:72829 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:39:51  [ JavaFX Application Thread:72830 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:39:51  [ JavaFX Application Thread:72892 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:39:51  [ JavaFX Application Thread:73012 ] - [ INFO ]  channel-sftp connected...
+2019-04-09 10:39:51  [ JavaFX Application Thread:73015 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-04-09 10:39:51  [ JavaFX Application Thread:73015 ] - [ INFO ]  channel-sftp closed!
+2019-04-09 10:39:58  [ JavaFX Application Thread:79479 ] - [ INFO ]  Done!
+2019-04-09 10:39:58  [ JavaFX Application Thread:79480 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:39:58  [ JavaFX Application Thread:79480 ] - [ DEBUG ]  Master init result: 0
+2019-04-09 10:43:17  [ JavaFX Application Thread:278160 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:43:17  [ JavaFX Application Thread:278913 ] - [ INFO ]  Done!
+2019-04-09 10:43:17  [ JavaFX Application Thread:278913 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:44:24  [ JavaFX Application Thread:345724 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:44:25  [ JavaFX Application Thread:346914 ] - [ INFO ]  Done!
+2019-04-09 10:44:25  [ JavaFX Application Thread:346914 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:44:26  [ JavaFX Application Thread:347818 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:44:27  [ JavaFX Application Thread:348913 ] - [ INFO ]  Done!
+2019-04-09 10:44:27  [ JavaFX Application Thread:348914 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:44:29  [ JavaFX Application Thread:350868 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:44:30  [ JavaFX Application Thread:351913 ] - [ INFO ]  Done!
+2019-04-09 10:44:30  [ JavaFX Application Thread:351913 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:44:31  [ JavaFX Application Thread:352220 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:44:32  [ JavaFX Application Thread:353914 ] - [ INFO ]  Done!
+2019-04-09 10:44:32  [ JavaFX Application Thread:353915 ] - [ INFO ]  sshSession closed!
+2019-04-09 10:45:40  [ JavaFX Application Thread:422042 ] - [ INFO ]  sshSession connected...
+2019-04-09 10:45:41  [ JavaFX Application Thread:422913 ] - [ INFO ]  Done!
+2019-04-09 10:45:41  [ JavaFX Application Thread:422914 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:03:47  [ JavaFX Application Thread:8708880 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:03:48  [ JavaFX Application Thread:8710087 ] - [ INFO ]  Done!
+2019-04-09 13:03:48  [ JavaFX Application Thread:8710087 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:03:50  [ JavaFX Application Thread:8711875 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:03:51  [ JavaFX Application Thread:8713090 ] - [ INFO ]  Done!
+2019-04-09 13:03:51  [ JavaFX Application Thread:8713090 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:03:52  [ JavaFX Application Thread:8713179 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:03:52  [ JavaFX Application Thread:8714087 ] - [ INFO ]  Done!
+2019-04-09 13:03:52  [ JavaFX Application Thread:8714087 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:03:59  [ JavaFX Application Thread:8720927 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:04:00  [ JavaFX Application Thread:8722086 ] - [ INFO ]  Done!
+2019-04-09 13:04:00  [ JavaFX Application Thread:8722086 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:31:06  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:31:06  [ JavaFX Application Thread:966 ] - [ INFO ]  Done!
+2019-04-09 13:31:06  [ JavaFX Application Thread:970 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:31:08  [ JavaFX Application Thread:2376 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:31:09  [ JavaFX Application Thread:3968 ] - [ INFO ]  Done!
+2019-04-09 13:31:09  [ JavaFX Application Thread:3969 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:31:11  [ JavaFX Application Thread:5101 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:31:11  [ JavaFX Application Thread:5967 ] - [ INFO ]  Done!
+2019-04-09 13:31:11  [ JavaFX Application Thread:5967 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:31:12  [ JavaFX Application Thread:6579 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:31:13  [ JavaFX Application Thread:7968 ] - [ INFO ]  Done!
+2019-04-09 13:31:13  [ JavaFX Application Thread:7969 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:31:14  [ JavaFX Application Thread:8028 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:31:14  [ JavaFX Application Thread:8967 ] - [ INFO ]  Done!
+2019-04-09 13:31:14  [ JavaFX Application Thread:8968 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:31:15  [ JavaFX Application Thread:9770 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:31:16  [ JavaFX Application Thread:10967 ] - [ INFO ]  Done!
+2019-04-09 13:31:16  [ JavaFX Application Thread:10967 ] - [ INFO ]  sshSession closed!
+2019-04-09 13:31:18  [ JavaFX Application Thread:12447 ] - [ INFO ]  sshSession connected...
+2019-04-09 13:31:19  [ JavaFX Application Thread:13968 ] - [ INFO ]  Done!
+2019-04-09 13:31:19  [ JavaFX Application Thread:13968 ] - [ INFO ]  sshSession closed!
+2019-04-09 22:32:37  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:32:39  [ JavaFX Application Thread:1747 ] - [ INFO ]  Done!
+2019-04-09 22:32:39  [ JavaFX Application Thread:1763 ] - [ INFO ]  sshSession closed!
+2019-04-09 22:32:58  [ JavaFX Application Thread:21088 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:33:00  [ JavaFX Application Thread:22749 ] - [ INFO ]  Done!
+2019-04-09 22:33:00  [ JavaFX Application Thread:22750 ] - [ INFO ]  sshSession closed!
+2019-04-09 22:33:13  [ Thread-8:35973 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:33:14  [ ForkJoinPool.commonPool-worker-1:36749 ] - [ INFO ]  Done!
+2019-04-09 22:35:08  [ Thread-11:150832 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:35:09  [ ForkJoinPool.commonPool-worker-2:151785 ] - [ INFO ]  Done!
+2019-04-09 22:35:16  [ Thread-14:158681 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:35:17  [ ForkJoinPool.commonPool-worker-2:159757 ] - [ INFO ]  Done!
+2019-04-09 22:38:47  [ JavaFX Application Thread:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:38:48  [ JavaFX Application Thread:1112 ] - [ INFO ]  Done!
+2019-04-09 22:38:48  [ JavaFX Application Thread:1116 ] - [ INFO ]  sshSession closed!
+2019-04-09 22:39:00  [ Thread-6:12960 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:39:25  [ ForkJoinPool.commonPool-worker-1:38092 ] - [ INFO ]  Done!
+2019-04-09 22:39:42  [ ForkJoinPool.commonPool-worker-1:55116 ] - [ INFO ]  Done!
+2019-04-09 22:40:55  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:40:56  [ ForkJoinPool.commonPool-worker-1:1142 ] - [ INFO ]  Done!
+2019-04-09 22:40:56  [ ForkJoinPool.commonPool-worker-1:1143 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:40:58  [ ForkJoinPool.commonPool-worker-1:3142 ] - [ INFO ]  Done!
+2019-04-09 22:40:58  [ ForkJoinPool.commonPool-worker-1:3142 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:00  [ ForkJoinPool.commonPool-worker-1:5142 ] - [ INFO ]  Done!
+2019-04-09 22:41:00  [ ForkJoinPool.commonPool-worker-1:5143 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:02  [ ForkJoinPool.commonPool-worker-1:7146 ] - [ INFO ]  Done!
+2019-04-09 22:41:02  [ ForkJoinPool.commonPool-worker-1:7146 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:04  [ ForkJoinPool.commonPool-worker-1:9147 ] - [ INFO ]  Done!
+2019-04-09 22:41:04  [ ForkJoinPool.commonPool-worker-1:9147 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:06  [ ForkJoinPool.commonPool-worker-1:11150 ] - [ INFO ]  Done!
+2019-04-09 22:41:06  [ ForkJoinPool.commonPool-worker-1:11150 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:08  [ ForkJoinPool.commonPool-worker-1:13142 ] - [ INFO ]  Done!
+2019-04-09 22:41:08  [ ForkJoinPool.commonPool-worker-1:13143 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:10  [ ForkJoinPool.commonPool-worker-1:15147 ] - [ INFO ]  Done!
+2019-04-09 22:41:10  [ ForkJoinPool.commonPool-worker-1:15147 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:12  [ ForkJoinPool.commonPool-worker-1:17143 ] - [ INFO ]  Done!
+2019-04-09 22:41:12  [ ForkJoinPool.commonPool-worker-1:17143 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:14  [ ForkJoinPool.commonPool-worker-1:19143 ] - [ INFO ]  Done!
+2019-04-09 22:41:14  [ ForkJoinPool.commonPool-worker-1:19143 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:16  [ ForkJoinPool.commonPool-worker-1:21143 ] - [ INFO ]  Done!
+2019-04-09 22:41:16  [ ForkJoinPool.commonPool-worker-1:21144 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:18  [ ForkJoinPool.commonPool-worker-1:23146 ] - [ INFO ]  Done!
+2019-04-09 22:41:18  [ ForkJoinPool.commonPool-worker-1:23146 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:20  [ ForkJoinPool.commonPool-worker-1:25143 ] - [ INFO ]  Done!
+2019-04-09 22:41:20  [ ForkJoinPool.commonPool-worker-1:25143 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:22  [ ForkJoinPool.commonPool-worker-1:27143 ] - [ INFO ]  Done!
+2019-04-09 22:41:22  [ ForkJoinPool.commonPool-worker-1:27143 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:24  [ ForkJoinPool.commonPool-worker-1:29144 ] - [ INFO ]  Done!
+2019-04-09 22:41:24  [ ForkJoinPool.commonPool-worker-1:29144 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:26  [ ForkJoinPool.commonPool-worker-1:31144 ] - [ INFO ]  Done!
+2019-04-09 22:41:26  [ ForkJoinPool.commonPool-worker-1:31144 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:28  [ ForkJoinPool.commonPool-worker-1:33146 ] - [ INFO ]  Done!
+2019-04-09 22:41:28  [ ForkJoinPool.commonPool-worker-1:33147 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:30  [ ForkJoinPool.commonPool-worker-1:35149 ] - [ INFO ]  Done!
+2019-04-09 22:41:30  [ ForkJoinPool.commonPool-worker-1:35150 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:41:31  [ Thread-4:36027 ] - [ INFO ]  sshSession closed!
+2019-04-09 22:42:23  [ Thread-7:88669 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:42:25  [ ForkJoinPool.commonPool-worker-3:90146 ] - [ INFO ]  Done!
+2019-04-09 22:42:27  [ ForkJoinPool.commonPool-worker-3:92145 ] - [ INFO ]  Done!
+2019-04-09 22:42:29  [ ForkJoinPool.commonPool-worker-3:94147 ] - [ INFO ]  Done!
+2019-04-09 22:42:31  [ ForkJoinPool.commonPool-worker-3:96146 ] - [ INFO ]  Done!
+2019-04-09 22:42:33  [ ForkJoinPool.commonPool-worker-3:98154 ] - [ INFO ]  Done!
+2019-04-09 22:42:35  [ ForkJoinPool.commonPool-worker-3:100146 ] - [ INFO ]  Done!
+2019-04-09 22:42:37  [ ForkJoinPool.commonPool-worker-3:102148 ] - [ INFO ]  Done!
+2019-04-09 22:42:39  [ ForkJoinPool.commonPool-worker-3:104147 ] - [ INFO ]  Done!
+2019-04-09 22:42:41  [ ForkJoinPool.commonPool-worker-3:106146 ] - [ INFO ]  Done!
+2019-04-09 22:42:43  [ ForkJoinPool.commonPool-worker-3:108147 ] - [ INFO ]  Done!
+2019-04-09 22:42:45  [ ForkJoinPool.commonPool-worker-3:110146 ] - [ INFO ]  Done!
+2019-04-09 22:42:45  [ Thread-7:110675 ] - [ INFO ]  sshSession closed!
+2019-04-09 22:42:46  [ Thread-10:111745 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:42:48  [ ForkJoinPool.commonPool-worker-3:113157 ] - [ INFO ]  Done!
+2019-04-09 22:42:48  [ ForkJoinPool.commonPool-worker-3:113157 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:42:50  [ ForkJoinPool.commonPool-worker-3:115147 ] - [ INFO ]  Done!
+2019-04-09 22:42:50  [ ForkJoinPool.commonPool-worker-3:115147 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:42:52  [ ForkJoinPool.commonPool-worker-3:117148 ] - [ INFO ]  Done!
+2019-04-09 22:42:52  [ ForkJoinPool.commonPool-worker-3:117148 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:42:54  [ ForkJoinPool.commonPool-worker-3:119152 ] - [ INFO ]  Done!
+2019-04-09 22:42:54  [ ForkJoinPool.commonPool-worker-3:119152 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:42:54  [ Thread-10:119750 ] - [ INFO ]  sshSession closed!
+2019-04-09 22:45:57  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:45:58  [ ForkJoinPool.commonPool-worker-1:1364 ] - [ INFO ]  Done!
+2019-04-09 22:46:01  [ ForkJoinPool.commonPool-worker-1:4364 ] - [ INFO ]  Done!
+2019-04-09 22:46:04  [ ForkJoinPool.commonPool-worker-1:7363 ] - [ INFO ]  Done!
+2019-04-09 22:46:07  [ ForkJoinPool.commonPool-worker-1:10363 ] - [ INFO ]  Done!
+2019-04-09 22:46:10  [ ForkJoinPool.commonPool-worker-1:13365 ] - [ INFO ]  Done!
+2019-04-09 22:46:13  [ ForkJoinPool.commonPool-worker-1:16363 ] - [ INFO ]  Done!
+2019-04-09 22:46:16  [ ForkJoinPool.commonPool-worker-1:19363 ] - [ INFO ]  Done!
+2019-04-09 22:46:19  [ ForkJoinPool.commonPool-worker-1:22364 ] - [ INFO ]  Done!
+2019-04-09 22:46:22  [ ForkJoinPool.commonPool-worker-1:25366 ] - [ INFO ]  Done!
+2019-04-09 22:46:25  [ ForkJoinPool.commonPool-worker-1:28365 ] - [ INFO ]  Done!
+2019-04-09 22:46:28  [ ForkJoinPool.commonPool-worker-1:31368 ] - [ INFO ]  Done!
+2019-04-09 22:46:30  [ Thread-4:33016 ] - [ INFO ]  sshSession closed!
+2019-04-09 22:46:33  [ Thread-7:36710 ] - [ INFO ]  sshSession connected...
+2019-04-09 22:46:35  [ ForkJoinPool.commonPool-worker-1:38364 ] - [ INFO ]  Done!
+2019-04-09 22:46:35  [ ForkJoinPool.commonPool-worker-1:38364 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:46:36  [ ForkJoinPool.commonPool-worker-1:39363 ] - [ INFO ]  Done!
+2019-04-09 22:46:37  [ ForkJoinPool.commonPool-worker-1:40372 ] - [ INFO ]  Done!
+2019-04-09 22:46:38  [ ForkJoinPool.commonPool-worker-1:41365 ] - [ INFO ]  Done!
+2019-04-09 22:46:39  [ ForkJoinPool.commonPool-worker-1:42363 ] - [ INFO ]  Done!
+2019-04-09 22:46:40  [ ForkJoinPool.commonPool-worker-1:43369 ] - [ INFO ]  Done!
+2019-04-09 22:46:41  [ ForkJoinPool.commonPool-worker-1:44364 ] - [ INFO ]  Done!
+2019-04-09 22:46:42  [ ForkJoinPool.commonPool-worker-1:45372 ] - [ INFO ]  Done!
+2019-04-09 22:46:43  [ ForkJoinPool.commonPool-worker-1:46364 ] - [ INFO ]  Done!
+2019-04-09 22:46:44  [ ForkJoinPool.commonPool-worker-1:47365 ] - [ INFO ]  Done!
+2019-04-09 22:46:45  [ ForkJoinPool.commonPool-worker-1:48370 ] - [ INFO ]  Done!
+2019-04-09 22:46:46  [ ForkJoinPool.commonPool-worker-1:49364 ] - [ INFO ]  Done!
+2019-04-09 22:46:47  [ ForkJoinPool.commonPool-worker-1:50364 ] - [ INFO ]  Done!
+2019-04-09 22:46:48  [ ForkJoinPool.commonPool-worker-1:51370 ] - [ INFO ]  Done!
+2019-04-09 22:46:49  [ ForkJoinPool.commonPool-worker-1:52365 ] - [ INFO ]  Done!
+2019-04-09 22:46:50  [ ForkJoinPool.commonPool-worker-1:53365 ] - [ INFO ]  Done!
+2019-04-09 22:46:50  [ ForkJoinPool.commonPool-worker-1:53365 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:46:51  [ ForkJoinPool.commonPool-worker-1:54370 ] - [ INFO ]  Done!
+2019-04-09 22:46:52  [ ForkJoinPool.commonPool-worker-1:55364 ] - [ INFO ]  Done!
+2019-04-09 22:46:53  [ ForkJoinPool.commonPool-worker-1:56365 ] - [ INFO ]  Done!
+2019-04-09 22:46:54  [ ForkJoinPool.commonPool-worker-1:57365 ] - [ INFO ]  Done!
+2019-04-09 22:46:55  [ ForkJoinPool.commonPool-worker-1:58365 ] - [ INFO ]  Done!
+2019-04-09 22:46:56  [ ForkJoinPool.commonPool-worker-1:59368 ] - [ INFO ]  Done!
+2019-04-09 22:46:57  [ ForkJoinPool.commonPool-worker-1:60364 ] - [ INFO ]  Done!
+2019-04-09 22:46:58  [ ForkJoinPool.commonPool-worker-1:61365 ] - [ INFO ]  Done!
+2019-04-09 22:46:59  [ ForkJoinPool.commonPool-worker-1:62365 ] - [ INFO ]  Done!
+2019-04-09 22:47:00  [ ForkJoinPool.commonPool-worker-1:63368 ] - [ INFO ]  Done!
+2019-04-09 22:47:01  [ ForkJoinPool.commonPool-worker-1:64365 ] - [ INFO ]  Done!
+2019-04-09 22:47:02  [ ForkJoinPool.commonPool-worker-1:65364 ] - [ INFO ]  Done!
+2019-04-09 22:47:03  [ ForkJoinPool.commonPool-worker-1:66364 ] - [ INFO ]  Done!
+2019-04-09 22:47:04  [ ForkJoinPool.commonPool-worker-1:67365 ] - [ INFO ]  Done!
+2019-04-09 22:47:05  [ ForkJoinPool.commonPool-worker-1:68365 ] - [ INFO ]  Done!
+2019-04-09 22:47:06  [ ForkJoinPool.commonPool-worker-1:69365 ] - [ INFO ]  Done!
+2019-04-09 22:47:08  [ ForkJoinPool.commonPool-worker-1:71365 ] - [ INFO ]  Done!
+2019-04-09 22:47:08  [ ForkJoinPool.commonPool-worker-1:71366 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:47:09  [ ForkJoinPool.commonPool-worker-1:72365 ] - [ INFO ]  Done!
+2019-04-09 22:47:10  [ ForkJoinPool.commonPool-worker-1:73365 ] - [ INFO ]  Done!
+2019-04-09 22:47:10  [ ForkJoinPool.commonPool-worker-1:73366 ] - [ INFO ]  channel-exec closed!
+2019-04-09 22:47:11  [ ForkJoinPool.commonPool-worker-1:74372 ] - [ INFO ]  Done!
+2019-04-09 22:47:12  [ ForkJoinPool.commonPool-worker-1:75366 ] - [ INFO ]  Done!
+2019-04-09 22:47:13  [ ForkJoinPool.commonPool-worker-1:76369 ] - [ INFO ]  Done!
+2019-04-09 22:47:14  [ ForkJoinPool.commonPool-worker-1:77365 ] - [ INFO ]  Done!
+2019-04-09 22:47:15  [ ForkJoinPool.commonPool-worker-1:78366 ] - [ INFO ]  Done!
+2019-04-09 22:47:15  [ Thread-7:78728 ] - [ INFO ]  sshSession closed!

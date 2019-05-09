@@ -1,0 +1,175 @@
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+Threads started!
+
+[ 10s ] thds: 16 tps: 279.18 qps: 5606.42 (r/w/o: 3927.03/1119.43/559.96) lat (ms,95%): 77.19 err/s: 0.00 reconn/s: 0.00
+[ 20s ] thds: 16 tps: 311.10 qps: 6222.36 (r/w/o: 4357.64/1242.51/622.21) lat (ms,95%): 71.83 err/s: 0.00 reconn/s: 0.00
+[ 30s ] thds: 16 tps: 303.83 qps: 6073.57 (r/w/o: 4249.77/1216.13/607.67) lat (ms,95%): 74.46 err/s: 0.00 reconn/s: 0.00
+[ 40s ] thds: 16 tps: 311.22 qps: 6230.74 (r/w/o: 4362.51/1245.69/622.54) lat (ms,95%): 74.46 err/s: 0.10 reconn/s: 0.00
+[ 50s ] thds: 16 tps: 319.00 qps: 6375.55 (r/w/o: 4462.37/1275.09/638.10) lat (ms,95%): 71.83 err/s: 0.10 reconn/s: 0.00
+[ 60s ] thds: 16 tps: 310.19 qps: 6206.67 (r/w/o: 4345.61/1240.67/620.39) lat (ms,95%): 75.82 err/s: 0.00 reconn/s: 0.00
+[ 70s ] thds: 16 tps: 317.20 qps: 6342.88 (r/w/o: 4439.69/1268.80/634.40) lat (ms,95%): 73.13 err/s: 0.00 reconn/s: 0.00
+[ 80s ] thds: 16 tps: 316.81 qps: 6338.05 (r/w/o: 4435.78/1268.65/633.63) lat (ms,95%): 74.46 err/s: 0.00 reconn/s: 0.00
+[ 90s ] thds: 16 tps: 316.89 qps: 6338.41 (r/w/o: 4437.66/1266.96/633.78) lat (ms,95%): 71.83 err/s: 0.00 reconn/s: 0.00
+[ 100s ] thds: 16 tps: 321.00 qps: 6417.68 (r/w/o: 4492.45/1283.22/642.01) lat (ms,95%): 71.83 err/s: 0.00 reconn/s: 0.00
+[ 110s ] thds: 16 tps: 318.70 qps: 6371.45 (r/w/o: 4458.86/1275.19/637.39) lat (ms,95%): 70.55 err/s: 0.00 reconn/s: 0.00
+[ 120s ] thds: 16 tps: 321.48 qps: 6433.57 (r/w/o: 4504.47/1286.03/643.07) lat (ms,95%): 66.84 err/s: 0.10 reconn/s: 0.00
+[ 130s ] thds: 16 tps: 323.18 qps: 6469.27 (r/w/o: 4529.10/1293.81/646.36) lat (ms,95%): 69.29 err/s: 0.10 reconn/s: 0.00
+[ 140s ] thds: 16 tps: 322.43 qps: 6445.27 (r/w/o: 4511.30/1289.01/644.96) lat (ms,95%): 66.84 err/s: 0.00 reconn/s: 0.00
+[ 150s ] thds: 16 tps: 320.79 qps: 6412.52 (r/w/o: 4488.31/1282.74/641.47) lat (ms,95%): 66.84 err/s: 0.10 reconn/s: 0.00
+[ 160s ] thds: 16 tps: 317.13 qps: 6345.89 (r/w/o: 4443.21/1268.12/634.56) lat (ms,95%): 69.29 err/s: 0.10 reconn/s: 0.00
+[ 170s ] thds: 16 tps: 318.58 qps: 6373.15 (r/w/o: 4461.26/1274.73/637.17) lat (ms,95%): 66.84 err/s: 0.00 reconn/s: 0.00
+[ 180s ] thds: 16 tps: 320.41 qps: 6407.81 (r/w/o: 4485.48/1281.62/640.71) lat (ms,95%): 68.05 err/s: 0.00 reconn/s: 0.00
+[ 190s ] thds: 16 tps: 320.29 qps: 6407.14 (r/w/o: 4484.52/1281.95/640.67) lat (ms,95%): 65.65 err/s: 0.00 reconn/s: 0.00
+[ 200s ] thds: 16 tps: 321.52 qps: 6431.34 (r/w/o: 4502.64/1285.67/643.03) lat (ms,95%): 66.84 err/s: 0.00 reconn/s: 0.00
+[ 210s ] thds: 16 tps: 319.98 qps: 6401.29 (r/w/o: 4480.88/1280.34/640.07) lat (ms,95%): 64.47 err/s: 0.10 reconn/s: 0.00
+[ 220s ] thds: 16 tps: 314.22 qps: 6284.78 (r/w/o: 4399.63/1256.50/628.65) lat (ms,95%): 68.05 err/s: 0.20 reconn/s: 0.00
+[ 230s ] thds: 16 tps: 281.09 qps: 5624.44 (r/w/o: 3937.19/1125.17/562.08) lat (ms,95%): 97.55 err/s: 0.00 reconn/s: 0.00
+[ 240s ] thds: 16 tps: 306.90 qps: 6139.36 (r/w/o: 4298.54/1226.91/613.91) lat (ms,95%): 70.55 err/s: 0.00 reconn/s: 0.00
+[ 250s ] thds: 16 tps: 316.21 qps: 6322.12 (r/w/o: 4425.19/1264.52/632.41) lat (ms,95%): 66.84 err/s: 0.00 reconn/s: 0.00
+[ 260s ] thds: 16 tps: 315.59 qps: 6313.07 (r/w/o: 4418.61/1263.27/631.19) lat (ms,95%): 66.84 err/s: 0.00 reconn/s: 0.00
+[ 270s ] thds: 16 tps: 321.09 qps: 6418.32 (r/w/o: 4492.68/1283.46/642.18) lat (ms,95%): 65.65 err/s: 0.10 reconn/s: 0.00
+[ 280s ] thds: 16 tps: 318.32 qps: 6379.22 (r/w/o: 4466.53/1275.76/636.93) lat (ms,95%): 64.47 err/s: 0.20 reconn/s: 0.00
+[ 290s ] thds: 16 tps: 324.30 qps: 6478.80 (r/w/o: 4535.10/1295.20/648.50) lat (ms,95%): 64.47 err/s: 0.10 reconn/s: 0.00
+[ 300s ] thds: 16 tps: 316.97 qps: 6343.78 (r/w/o: 4441.74/1267.80/634.25) lat (ms,95%): 69.29 err/s: 0.10 reconn/s: 0.00
+SQL statistics:
+    queries performed:
+        read:                            1322818
+        write:                           377907
+        other:                           188960
+        total:                           1889685
+    transactions:                        94473  (314.72 per sec.)
+    queries:                             1889685 (6295.09 per sec.)
+    ignored errors:                      14     (0.05 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+
+Throughput:
+    events/s (eps):                      314.7170
+    time elapsed:                        300.1840s
+    total number of events:              94473
+
+Latency (ms):
+         min:                                    2.38
+         avg:                                   50.82
+         max:                                  413.00
+         95th percentile:                       70.55
+         sum:                              4800875.49
+
+Threads fairness:
+    events (avg/stddev):           5904.5625/21.10
+    execution time (avg/stddev):   300.0547/0.05
+
+sysbench 1.1.0-778c40b (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 32
+Report intermediate results every 10 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+(last message repeated 2 times)
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+(last message repeated 1 times)
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+(last message repeated 1 times)
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+(last message repeated 1 times)
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: mysql_stmt_prepare() failed
+(last message repeated 1 times)
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: MySQL error: 1461 "Can't create more than max_prepared_stmt_count statements (current value: 16382)"
+FATAL: `thread_init' function failed: ./src/lua/oltp_common.lua:341: SQL API error
+FATAL: Threads initialization failed!
