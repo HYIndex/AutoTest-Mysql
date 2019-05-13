@@ -26,9 +26,9 @@ public class SSHServer {
      */
     private ArrayList<String> stdout;
 
-    Session session = null;
-    ChannelExec channelExec = null;
-    ChannelSftp channelSftp = null;
+    private Session session = null;
+    private ChannelExec channelExec = null;
+    private ChannelSftp channelSftp = null;
 
     public SSHServer(final String ip, final String uname, final String passwd) {
         this.ip = ip;
