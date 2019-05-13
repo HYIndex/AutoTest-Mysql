@@ -485,7 +485,8 @@ public class AutotestTool {
         }
     }
 
-    public static void systemBottleneckTest(ServerNode master, ArrayList<ServerNode> slaves, MainwindowController mwCtrller) {
+
+    public static void systemResourceMonitor(ServerNode master, ArrayList<ServerNode> slaves, MainwindowController mwCtrller) {
         mwc = mwCtrller;
         serverGroup = new ServerNode[slaves.size() + 1];
         serverGroup[0] = new ServerNode(master);

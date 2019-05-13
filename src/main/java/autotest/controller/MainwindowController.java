@@ -884,7 +884,7 @@ public class MainwindowController implements Initializable {
         if (butSysBotStart.getText().equals("启动")) {
             monitorStop = false;
             butSysBotStart.setText("终止");
-            AutotestTool.systemBottleneckTest(master, slaves, this);
+            AutotestTool.systemResourceMonitor(master, slaves, this);
         } else {
             monitorStop = true;
             butSysBotStart.setText("启动");
