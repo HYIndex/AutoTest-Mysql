@@ -13,12 +13,10 @@ import java.util.Date;
 import java.util.concurrent.CompletableFuture;
 
 import autotest.controller.MainwindowController;
-import javafx.beans.property.StringProperty;
 import javafx.scene.control.Alert;
 import javafx.scene.control.ButtonType;
 import javafx.util.Pair;
 import org.apache.log4j.Logger;
-import org.omg.CosNaming.NamingContextExtPackage.StringNameHelper;
 
 import static autotest.controller.MainwindowController.*;
 import static java.lang.Thread.sleep;
@@ -147,7 +145,7 @@ public class AutotestTool {
         }
         // 上传sysbench3.0和测试脚本
         try {
-            sshServer.upload("/var/autotest", "/autotest/testtool/sysbench-3.0.0.tar.gz");
+            sshServer.upload("/var/autotest", "/autotest/tools/sysbench-3.0.0.tar.gz");
             sshServer.upload("/var/autotest", "/autotest/shell/sysbench_test.sh");
         } catch (SftpException e) {
             e.printStackTrace();
@@ -233,7 +231,7 @@ public class AutotestTool {
                     return;
                 }
                 try {
-                    sshServer.upload("/var/autotest", "/autotest/testtool/percona-toolkit_3.0.13-1.xenial_amd64.deb");
+                    sshServer.upload("/var/autotest", "/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb");
                     sshServer.upload("/var/autotest", "/autotest/shell/delay_test_init.sh");
                 } catch (SftpException e) {
                     e.printStackTrace();
@@ -263,7 +261,7 @@ public class AutotestTool {
                         return;
                     }
                     try {
-                        sshServer.upload("/var/autotest", "/autotest/testtool/percona-toolkit_3.0.13-1.xenial_amd64.deb");
+                        sshServer.upload("/var/autotest", "/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb");
                         sshServer.upload("/var/autotest", "/autotest/shell/delay_test_init.sh");
                     } catch (SftpException e) {
                         e.printStackTrace();
@@ -363,6 +361,7 @@ public class AutotestTool {
             return null;
         }
         try {
+            sshServer.upload("/var/autotest", "/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb");
             sshServer.upload("/var/autotest", "/autotest/shell/consistent_test.sh");
         } catch (SftpException e) {
             e.printStackTrace();
@@ -426,6 +425,7 @@ public class AutotestTool {
         }
         // 上传测试脚本
         try {
+            sshServer.upload("/var/autotest", "/autotest/tools/tpcc-mysql.tar.gz");
             sshServer.upload("/var/autotest", "/autotest/shell/business_scenario_test.sh");
         } catch (SftpException e) {
             e.printStackTrace();
@@ -505,7 +505,13 @@ public class AutotestTool {
                         MessageBox.showMessage(Alert.AlertType.ERROR, "错误：", String.format("[%s]:连接失败！", serverGroup[idx].getIp()), ButtonType.OK);
                         return;
                     }
-                    String cmd = "apt-get install sysstat -y > /dev/null";
+                    try {
+                        //sshServer.upload("/var/autotest", "/autotest/tools/sysstat.tar.gz");
+                        sshServer.upload("/var/autotest", "/autotest/shell/install_sysstat.sh");
+                    } catch (SftpException e) {
+                        e.printStackTrace();
+                    }
+                    String cmd = "/bin/bash /var/autotest/install_sysstat.sh";
                     sshServer.execute(cmd);
                     while (true) {
                         if (monitorStop) {

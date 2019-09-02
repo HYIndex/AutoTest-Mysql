@@ -1,336 +1,547 @@
-2019-05-08 17:56:20  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 17:56:20  [ Thread-4:201 ] - [ INFO ]  channel-sftp connected...
-2019-05-08 17:56:20  [ Thread-4:214 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
-2019-05-08 17:56:20  [ Thread-4:214 ] - [ INFO ]  channel-sftp closed!
-2019-05-08 17:56:26  [ Thread-4:5841 ] - [ INFO ]  Done!
-2019-05-08 17:56:26  [ Thread-4:5844 ] - [ INFO ]  sshSession closed!
-2019-05-08 17:56:44  [ Thread-7:23923 ] - [ INFO ]  sshSession connected...
-2019-05-08 17:56:45  [ Thread-7:24521 ] - [ INFO ]  Done!
-2019-05-08 17:56:45  [ Thread-7:24522 ] - [ INFO ]  sshSession closed!
-2019-05-08 17:58:36  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 17:58:36  [ Thread-4:113 ] - [ INFO ]  channel-sftp connected...
-2019-05-08 17:58:36  [ Thread-4:118 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
-2019-05-08 17:58:36  [ Thread-4:119 ] - [ INFO ]  channel-sftp closed!
-2019-05-08 17:58:36  [ Thread-4:531 ] - [ INFO ]  Done!
-2019-05-08 17:58:36  [ Thread-4:534 ] - [ INFO ]  sshSession closed!
-2019-05-08 17:59:07  [ Thread-7:31318 ] - [ INFO ]  sshSession connected...
-2019-05-08 17:59:07  [ Thread-7:31417 ] - [ INFO ]  channel-sftp connected...
-2019-05-08 17:59:07  [ Thread-7:31420 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
-2019-05-08 17:59:07  [ Thread-7:31420 ] - [ INFO ]  channel-sftp closed!
-2019-05-08 17:59:07  [ Thread-7:31808 ] - [ INFO ]  Done!
-2019-05-08 17:59:07  [ Thread-7:31809 ] - [ INFO ]  sshSession closed!
-2019-05-08 17:59:36  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 17:59:36  [ Thread-4:102 ] - [ INFO ]  channel-sftp connected...
-2019-05-08 17:59:36  [ Thread-4:109 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
-2019-05-08 17:59:36  [ Thread-4:109 ] - [ INFO ]  channel-sftp closed!
-2019-05-08 17:59:36  [ Thread-4:468 ] - [ INFO ]  Done!
-2019-05-08 17:59:36  [ Thread-4:471 ] - [ INFO ]  sshSession closed!
-2019-05-08 21:13:18  [ Thread-5:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 21:13:20  [ Thread-4:1227 ] - [ INFO ]  sshSession connected...
-2019-05-08 21:13:20  [ Thread-4:2051 ] - [ INFO ]  Done!
-2019-05-08 21:13:21  [ ForkJoinPool.commonPool-worker-1:3071 ] - [ INFO ]  Done!
-2019-05-08 21:13:24  [ ForkJoinPool.commonPool-worker-1:6066 ] - [ INFO ]  Done!
-2019-05-08 21:13:27  [ ForkJoinPool.commonPool-worker-1:9066 ] - [ INFO ]  Done!
-2019-05-08 21:13:30  [ ForkJoinPool.commonPool-worker-1:12065 ] - [ INFO ]  Done!
-2019-05-08 21:13:33  [ ForkJoinPool.commonPool-worker-1:15066 ] - [ INFO ]  Done!
-2019-05-08 21:13:36  [ ForkJoinPool.commonPool-worker-1:18066 ] - [ INFO ]  Done!
-2019-05-08 21:13:38  [ Thread-5:20005 ] - [ INFO ]  Done!
-2019-05-08 21:13:38  [ Thread-5:20007 ] - [ INFO ]  sshSession closed!
-2019-05-08 21:13:38  [ Thread-4:20058 ] - [ INFO ]  sshSession closed!
-2019-05-08 22:14:36  [ Thread-5:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:14:37  [ Thread-5:793 ] - [ INFO ]  Done!
-2019-05-08 22:14:38  [ ForkJoinPool.commonPool-worker-1:1837 ] - [ INFO ]  Done!
-2019-05-08 22:16:48  [ Thread-4:132508 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:16:49  [ Thread-4:133128 ] - [ INFO ]  Done!
-2019-05-08 22:16:49  [ ForkJoinPool.commonPool-worker-2:133526 ] - [ INFO ]  Done!
-2019-05-08 22:16:49  [ ForkJoinPool.commonPool-worker-2:133527 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:17:10  [ ForkJoinPool.commonPool-worker-1:154110 ] - [ INFO ]  Done!
-2019-05-08 22:17:41  [ ForkJoinPool.commonPool-worker-3:185328 ] - [ INFO ]  Done!
-2019-05-08 22:17:41  [ ForkJoinPool.commonPool-worker-4:185329 ] - [ INFO ]  Done!
-2019-05-08 22:17:41  [ ForkJoinPool.commonPool-worker-4:185374 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:17:54  [ ForkJoinPool.commonPool-worker-5:198343 ] - [ INFO ]  Done!
-2019-05-08 22:17:54  [ ForkJoinPool.commonPool-worker-5:198361 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:17:56  [ ForkJoinPool.commonPool-worker-1:200412 ] - [ INFO ]  Done!
-2019-05-08 22:17:59  [ ForkJoinPool.commonPool-worker-2:203053 ] - [ INFO ]  Done!
-2019-05-08 22:18:16  [ ForkJoinPool.commonPool-worker-4:220672 ] - [ INFO ]  Done!
-2019-05-08 22:19:37  [ ForkJoinPool.commonPool-worker-1:301335 ] - [ INFO ]  Done!
-2019-05-08 22:19:39  [ ForkJoinPool.commonPool-worker-3:303666 ] - [ INFO ]  Done!
-2019-05-08 22:19:39  [ ForkJoinPool.commonPool-worker-6:303666 ] - [ INFO ]  Done!
-2019-05-08 22:19:37  [ ForkJoinPool.commonPool-worker-5:301335 ] - [ INFO ]  Done!
-2019-05-08 22:19:45  [ ForkJoinPool.commonPool-worker-3:309545 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:19:42  [ ForkJoinPool.commonPool-worker-7:305771 ] - [ INFO ]  Done!
-2019-05-08 22:19:46  [ ForkJoinPool.commonPool-worker-7:310148 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:19:42  [ ForkJoinPool.commonPool-worker-2:305771 ] - [ INFO ]  Done!
-2019-05-08 22:19:47  [ ForkJoinPool.commonPool-worker-2:311298 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:00  [ ForkJoinPool.commonPool-worker-4:324593 ] - [ INFO ]  Done!
-2019-05-08 22:20:00  [ ForkJoinPool.commonPool-worker-4:324596 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:00  [ ForkJoinPool.commonPool-worker-2:324593 ] - [ INFO ]  Done!
-2019-05-08 22:20:02  [ ForkJoinPool.commonPool-worker-2:325772 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:08  [ ForkJoinPool.commonPool-worker-6:332221 ] - [ INFO ]  Done!
-2019-05-08 22:20:08  [ ForkJoinPool.commonPool-worker-4:332680 ] - [ INFO ]  Done!
-2019-05-08 22:20:08  [ ForkJoinPool.commonPool-worker-2:332243 ] - [ INFO ]  Done!
-2019-05-08 22:20:08  [ ForkJoinPool.commonPool-worker-6:332680 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:10  [ ForkJoinPool.commonPool-worker-2:334579 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:10  [ ForkJoinPool.commonPool-worker-5:334579 ] - [ INFO ]  Done, but exit status not set!
-2019-05-08 22:20:13  [ ForkJoinPool.commonPool-worker-7:337113 ] - [ INFO ]  Done!
-2019-05-08 22:20:13  [ ForkJoinPool.commonPool-worker-5:337115 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:14  [ ForkJoinPool.commonPool-worker-7:338071 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:17  [ ForkJoinPool.commonPool-worker-5:341122 ] - [ INFO ]  Done!
-2019-05-08 22:20:17  [ ForkJoinPool.commonPool-worker-1:341125 ] - [ INFO ]  Done!
-2019-05-08 22:20:30  [ ForkJoinPool.commonPool-worker-5:353895 ] - [ INFO ]  Done!
-2019-05-08 22:20:30  [ ForkJoinPool.commonPool-worker-4:353896 ] - [ INFO ]  Done!
-2019-05-08 22:20:33  [ ForkJoinPool.commonPool-worker-5:357240 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:33  [ ForkJoinPool.commonPool-worker-6:357240 ] - [ INFO ]  Done!
-2019-05-08 22:20:33  [ ForkJoinPool.commonPool-worker-4:357244 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:20:37  [ ForkJoinPool.commonPool-worker-2:361250 ] - [ INFO ]  Done!
-2019-05-08 22:20:37  [ ForkJoinPool.commonPool-worker-3:361250 ] - [ INFO ]  Done!
-2019-05-08 22:20:40  [ ForkJoinPool.commonPool-worker-3:364250 ] - [ INFO ]  Done!
-2019-05-08 22:20:40  [ ForkJoinPool.commonPool-worker-2:364250 ] - [ INFO ]  Done!
-2019-05-08 22:20:43  [ ForkJoinPool.commonPool-worker-3:367252 ] - [ INFO ]  Done!
-2019-05-08 22:20:43  [ ForkJoinPool.commonPool-worker-2:367252 ] - [ INFO ]  Done!
-2019-05-08 22:20:46  [ ForkJoinPool.commonPool-worker-2:370250 ] - [ INFO ]  Done!
-2019-05-08 22:20:46  [ ForkJoinPool.commonPool-worker-3:370252 ] - [ INFO ]  Done!
-2019-05-08 22:20:49  [ ForkJoinPool.commonPool-worker-3:373251 ] - [ INFO ]  Done!
-2019-05-08 22:20:49  [ ForkJoinPool.commonPool-worker-2:373261 ] - [ INFO ]  Done!
-2019-05-08 22:20:52  [ ForkJoinPool.commonPool-worker-2:376252 ] - [ INFO ]  Done!
-2019-05-08 22:20:52  [ ForkJoinPool.commonPool-worker-3:376252 ] - [ INFO ]  Done!
-2019-05-08 22:20:55  [ ForkJoinPool.commonPool-worker-3:379252 ] - [ INFO ]  Done!
-2019-05-08 22:20:55  [ ForkJoinPool.commonPool-worker-2:379253 ] - [ INFO ]  Done!
-2019-05-08 22:20:58  [ ForkJoinPool.commonPool-worker-2:382252 ] - [ INFO ]  Done!
-2019-05-08 22:20:58  [ ForkJoinPool.commonPool-worker-3:382253 ] - [ INFO ]  Done!
-2019-05-08 22:21:01  [ ForkJoinPool.commonPool-worker-3:385255 ] - [ INFO ]  Done!
-2019-05-08 22:21:01  [ ForkJoinPool.commonPool-worker-2:385255 ] - [ INFO ]  Done!
-2019-05-08 22:21:04  [ ForkJoinPool.commonPool-worker-2:388255 ] - [ INFO ]  Done!
-2019-05-08 22:21:04  [ ForkJoinPool.commonPool-worker-3:388256 ] - [ INFO ]  Done!
-2019-05-08 22:21:07  [ ForkJoinPool.commonPool-worker-3:391255 ] - [ INFO ]  Done!
-2019-05-08 22:21:07  [ ForkJoinPool.commonPool-worker-2:391255 ] - [ INFO ]  Done!
-2019-05-08 22:21:10  [ ForkJoinPool.commonPool-worker-2:394255 ] - [ INFO ]  Done!
-2019-05-08 22:21:10  [ ForkJoinPool.commonPool-worker-3:394255 ] - [ INFO ]  Done!
-2019-05-08 22:21:13  [ ForkJoinPool.commonPool-worker-3:397256 ] - [ INFO ]  Done!
-2019-05-08 22:21:13  [ ForkJoinPool.commonPool-worker-2:397257 ] - [ INFO ]  Done!
-2019-05-08 22:28:47  [ Thread-5:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:28:47  [ Thread-5:668 ] - [ INFO ]  Done!
-2019-05-08 22:28:48  [ ForkJoinPool.commonPool-worker-1:1693 ] - [ INFO ]  Done!
-2019-05-08 22:28:49  [ Thread-4:2323 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:28:50  [ Thread-4:2975 ] - [ INFO ]  Done!
-2019-05-08 22:28:51  [ ForkJoinPool.commonPool-worker-1:3984 ] - [ INFO ]  Done!
-2019-05-08 22:28:51  [ ForkJoinPool.commonPool-worker-2:4694 ] - [ INFO ]  Done!
-2019-05-08 22:28:54  [ ForkJoinPool.commonPool-worker-2:6986 ] - [ INFO ]  Done!
-2019-05-08 22:28:54  [ ForkJoinPool.commonPool-worker-1:7694 ] - [ INFO ]  Done!
-2019-05-08 22:28:57  [ ForkJoinPool.commonPool-worker-1:9985 ] - [ INFO ]  Done!
-2019-05-08 22:28:57  [ ForkJoinPool.commonPool-worker-2:10695 ] - [ INFO ]  Done!
-2019-05-08 22:30:05  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:30:06  [ Thread-4:640 ] - [ INFO ]  Done!
-2019-05-08 22:30:07  [ ForkJoinPool.commonPool-worker-1:1664 ] - [ INFO ]  Done!
-2019-05-08 22:30:25  [ ForkJoinPool.commonPool-worker-2:20106 ] - [ INFO ]  Done!
-2019-05-08 22:30:25  [ ForkJoinPool.commonPool-worker-3:20107 ] - [ INFO ]  Done!
-2019-05-08 22:30:25  [ ForkJoinPool.commonPool-worker-3:20108 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:31:34  [ ForkJoinPool.commonPool-worker-4:88861 ] - [ INFO ]  Done!
-2019-05-08 22:31:34  [ ForkJoinPool.commonPool-worker-4:88862 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:32:46  [ ForkJoinPool.commonPool-worker-5:160924 ] - [ INFO ]  Done!
-2019-05-08 22:32:46  [ ForkJoinPool.commonPool-worker-5:160924 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:35:40  [ ForkJoinPool.commonPool-worker-3:334715 ] - [ INFO ]  Done!
-2019-05-08 22:35:40  [ ForkJoinPool.commonPool-worker-3:334715 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:35:49  [ ForkJoinPool.commonPool-worker-2:344367 ] - [ INFO ]  Done!
-2019-05-08 22:39:34  [ ForkJoinPool.commonPool-worker-1:569125 ] - [ INFO ]  Done!
-2019-05-08 22:39:49  [ ForkJoinPool.commonPool-worker-5:583731 ] - [ INFO ]  Done!
-2019-05-08 22:40:15  [ ForkJoinPool.commonPool-worker-4:609962 ] - [ INFO ]  Done!
-2019-05-08 22:40:28  [ ForkJoinPool.commonPool-worker-7:622619 ] - [ INFO ]  Done!
-2019-05-08 22:40:28  [ ForkJoinPool.commonPool-worker-6:622618 ] - [ INFO ]  Done!
-2019-05-08 22:40:28  [ ForkJoinPool.commonPool-worker-3:622617 ] - [ INFO ]  Done!
-2019-05-08 22:40:28  [ ForkJoinPool.commonPool-worker-4:622620 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:41:05  [ ForkJoinPool.commonPool-worker-3:659869 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:41:01  [ ForkJoinPool.commonPool-worker-1:656187 ] - [ INFO ]  Done!
-2019-05-08 22:41:13  [ ForkJoinPool.commonPool-worker-1:667487 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:41:17  [ ForkJoinPool.commonPool-worker-1:671918 ] - [ INFO ]  Done!
-2019-05-08 22:41:29  [ ForkJoinPool.commonPool-worker-3:683710 ] - [ INFO ]  Done!
-2019-05-08 22:41:29  [ ForkJoinPool.commonPool-worker-7:683711 ] - [ INFO ]  Done!
-2019-05-08 22:41:29  [ ForkJoinPool.commonPool-worker-3:683713 ] - [ INFO ]  channel-exec closed!
-2019-05-08 22:42:59  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:43:00  [ Thread-4:651 ] - [ INFO ]  Done!
-2019-05-08 22:43:01  [ ForkJoinPool.commonPool-worker-1:1667 ] - [ INFO ]  Done!
-2019-05-08 22:43:28  [ Thread-4:28841 ] - [ INFO ]  sshSession closed!
-2019-05-08 22:44:16  [ Thread-7:76730 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:44:16  [ Thread-7:77372 ] - [ INFO ]  Done!
-2019-05-08 22:44:17  [ ForkJoinPool.commonPool-worker-2:78383 ] - [ INFO ]  Done!
-2019-05-08 22:44:21  [ Thread-7:82135 ] - [ INFO ]  sshSession closed!
-2019-05-08 22:46:26  [ Thread-10:207130 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:46:27  [ Thread-10:207768 ] - [ INFO ]  Done!
-2019-05-08 22:46:28  [ ForkJoinPool.commonPool-worker-3:208787 ] - [ INFO ]  Done!
-2019-05-08 22:46:30  [ Thread-10:211163 ] - [ INFO ]  sshSession closed!
-2019-05-08 22:48:38  [ Thread-13:338932 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:48:39  [ Thread-13:339578 ] - [ INFO ]  Done!
-2019-05-08 22:48:40  [ ForkJoinPool.commonPool-worker-4:340601 ] - [ INFO ]  Done!
-2019-05-08 22:48:43  [ Thread-13:344046 ] - [ INFO ]  sshSession closed!
-2019-05-08 22:49:35  [ Thread-16:396216 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:49:36  [ Thread-16:396849 ] - [ INFO ]  Done!
-2019-05-08 22:49:37  [ ForkJoinPool.commonPool-worker-5:397860 ] - [ INFO ]  Done!
-2019-05-08 22:49:43  [ Thread-16:404413 ] - [ INFO ]  sshSession closed!
-2019-05-08 22:56:52  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 22:56:53  [ Thread-4:641 ] - [ INFO ]  Done!
-2019-05-08 22:56:54  [ ForkJoinPool.commonPool-worker-1:1659 ] - [ INFO ]  Done!
-2019-05-08 22:56:59  [ Thread-4:6541 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:02:07  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:02:07  [ Thread-4:644 ] - [ INFO ]  Done!
-2019-05-08 23:02:08  [ ForkJoinPool.commonPool-worker-1:1661 ] - [ INFO ]  Done!
-2019-05-08 23:02:12  [ Thread-4:5624 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:03:00  [ Thread-7:52930 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:03:00  [ Thread-7:53574 ] - [ INFO ]  Done!
-2019-05-08 23:03:01  [ ForkJoinPool.commonPool-worker-2:54584 ] - [ INFO ]  Done!
-2019-05-08 23:03:06  [ Thread-7:58868 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:04:39  [ Thread-10:152386 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:04:40  [ Thread-10:153044 ] - [ INFO ]  Done!
-2019-05-08 23:04:41  [ ForkJoinPool.commonPool-worker-3:154060 ] - [ INFO ]  Done!
-2019-05-08 23:04:51  [ Thread-10:164082 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:05:38  [ Thread-13:211608 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:05:39  [ Thread-13:212253 ] - [ INFO ]  Done!
-2019-05-08 23:05:40  [ ForkJoinPool.commonPool-worker-4:213265 ] - [ INFO ]  Done!
-2019-05-08 23:05:44  [ Thread-13:216919 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:07:17  [ Thread-16:310669 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:07:18  [ Thread-16:311298 ] - [ INFO ]  Done!
-2019-05-08 23:07:19  [ ForkJoinPool.commonPool-worker-5:312321 ] - [ INFO ]  Done!
-2019-05-08 23:07:31  [ Thread-16:323876 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:08:40  [ Thread-4:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:08:41  [ Thread-4:638 ] - [ INFO ]  Done!
-2019-05-08 23:08:42  [ ForkJoinPool.commonPool-worker-1:1653 ] - [ INFO ]  Done!
-2019-05-08 23:08:44  [ Thread-4:3646 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:08:54  [ Thread-7:13818 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:08:55  [ Thread-7:14457 ] - [ INFO ]  Done!
-2019-05-08 23:08:56  [ ForkJoinPool.commonPool-worker-1:15466 ] - [ INFO ]  Done!
-2019-05-08 23:08:58  [ Thread-7:17458 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:09:25  [ Thread-5:0 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:09:26  [ Thread-5:676 ] - [ INFO ]  Done!
-2019-05-08 23:09:27  [ ForkJoinPool.commonPool-worker-1:1689 ] - [ INFO ]  Done!
-2019-05-08 23:09:27  [ Thread-4:2015 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:09:28  [ Thread-4:2652 ] - [ INFO ]  Done!
-2019-05-08 23:09:29  [ ForkJoinPool.commonPool-worker-1:3661 ] - [ INFO ]  Done!
-2019-05-08 23:09:30  [ ForkJoinPool.commonPool-worker-1:4702 ] - [ INFO ]  Done!
-2019-05-08 23:09:32  [ ForkJoinPool.commonPool-worker-1:6662 ] - [ INFO ]  Done!
-2019-05-08 23:09:33  [ ForkJoinPool.commonPool-worker-1:7690 ] - [ INFO ]  Done!
-2019-05-08 23:09:35  [ ForkJoinPool.commonPool-worker-1:9671 ] - [ INFO ]  Done!
-2019-05-08 23:09:36  [ ForkJoinPool.commonPool-worker-1:10691 ] - [ INFO ]  Done!
-2019-05-08 23:09:38  [ ForkJoinPool.commonPool-worker-1:12663 ] - [ INFO ]  Done!
-2019-05-08 23:09:39  [ ForkJoinPool.commonPool-worker-1:13693 ] - [ INFO ]  Done!
-2019-05-08 23:09:41  [ ForkJoinPool.commonPool-worker-1:15662 ] - [ INFO ]  Done!
-2019-05-08 23:09:42  [ ForkJoinPool.commonPool-worker-1:16692 ] - [ INFO ]  Done!
-2019-05-08 23:09:44  [ ForkJoinPool.commonPool-worker-1:18663 ] - [ INFO ]  Done!
-2019-05-08 23:09:45  [ ForkJoinPool.commonPool-worker-1:19692 ] - [ INFO ]  Done!
-2019-05-08 23:09:47  [ ForkJoinPool.commonPool-worker-1:21664 ] - [ INFO ]  Done!
-2019-05-08 23:09:48  [ ForkJoinPool.commonPool-worker-1:22693 ] - [ INFO ]  Done!
-2019-05-08 23:09:50  [ ForkJoinPool.commonPool-worker-1:24664 ] - [ INFO ]  Done!
-2019-05-08 23:09:51  [ ForkJoinPool.commonPool-worker-1:25694 ] - [ INFO ]  Done!
-2019-05-08 23:09:53  [ ForkJoinPool.commonPool-worker-1:27663 ] - [ INFO ]  Done!
-2019-05-08 23:09:54  [ ForkJoinPool.commonPool-worker-1:28694 ] - [ INFO ]  Done!
-2019-05-08 23:09:56  [ ForkJoinPool.commonPool-worker-1:30665 ] - [ INFO ]  Done!
-2019-05-08 23:09:57  [ ForkJoinPool.commonPool-worker-1:31694 ] - [ INFO ]  Done!
-2019-05-08 23:09:59  [ ForkJoinPool.commonPool-worker-1:33665 ] - [ INFO ]  Done!
-2019-05-08 23:10:00  [ ForkJoinPool.commonPool-worker-1:34694 ] - [ INFO ]  Done!
-2019-05-08 23:10:02  [ ForkJoinPool.commonPool-worker-1:36665 ] - [ INFO ]  Done!
-2019-05-08 23:10:03  [ ForkJoinPool.commonPool-worker-1:37699 ] - [ INFO ]  Done!
-2019-05-08 23:10:05  [ ForkJoinPool.commonPool-worker-1:39666 ] - [ INFO ]  Done!
-2019-05-08 23:10:06  [ ForkJoinPool.commonPool-worker-1:40695 ] - [ INFO ]  Done!
-2019-05-08 23:10:08  [ ForkJoinPool.commonPool-worker-1:42666 ] - [ INFO ]  Done!
-2019-05-08 23:10:09  [ ForkJoinPool.commonPool-worker-1:43696 ] - [ INFO ]  Done!
-2019-05-08 23:10:11  [ ForkJoinPool.commonPool-worker-1:45669 ] - [ INFO ]  Done!
-2019-05-08 23:10:12  [ ForkJoinPool.commonPool-worker-1:46697 ] - [ INFO ]  Done!
-2019-05-08 23:10:13  [ Thread-10:47952 ] - [ INFO ]  sshSession connected...
-2019-05-08 23:10:13  [ Thread-10:48076 ] - [ INFO ]  channel-sftp connected...
-2019-05-08 23:10:13  [ Thread-10:48257 ] - [ INFO ]  file:/autotest/testtool/sysbench-3.0.0.tar.gz upload success...
-2019-05-08 23:10:13  [ Thread-10:48258 ] - [ INFO ]  channel-sftp closed!
-2019-05-08 23:10:13  [ Thread-10:48271 ] - [ INFO ]  channel-sftp connected...
-2019-05-08 23:10:13  [ Thread-10:48291 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
-2019-05-08 23:10:13  [ Thread-10:48291 ] - [ INFO ]  channel-sftp closed!
-2019-05-08 23:10:14  [ ForkJoinPool.commonPool-worker-1:48668 ] - [ INFO ]  Done!
-2019-05-08 23:10:15  [ ForkJoinPool.commonPool-worker-1:49698 ] - [ INFO ]  Done!
-2019-05-08 23:10:17  [ ForkJoinPool.commonPool-worker-1:51677 ] - [ INFO ]  Done!
-2019-05-08 23:10:18  [ ForkJoinPool.commonPool-worker-1:52699 ] - [ INFO ]  Done!
-2019-05-08 23:10:20  [ ForkJoinPool.commonPool-worker-1:54684 ] - [ INFO ]  Done!
-2019-05-08 23:10:21  [ ForkJoinPool.commonPool-worker-1:55749 ] - [ INFO ]  Done!
-2019-05-08 23:10:23  [ ForkJoinPool.commonPool-worker-1:57670 ] - [ INFO ]  Done!
-2019-05-08 23:10:24  [ ForkJoinPool.commonPool-worker-1:58715 ] - [ INFO ]  Done!
-2019-05-08 23:10:26  [ ForkJoinPool.commonPool-worker-1:60674 ] - [ INFO ]  Done!
-2019-05-08 23:10:27  [ ForkJoinPool.commonPool-worker-1:61702 ] - [ INFO ]  Done!
-2019-05-08 23:10:29  [ ForkJoinPool.commonPool-worker-1:63680 ] - [ INFO ]  Done!
-2019-05-08 23:10:30  [ ForkJoinPool.commonPool-worker-1:64720 ] - [ INFO ]  Done!
-2019-05-08 23:10:32  [ ForkJoinPool.commonPool-worker-1:66703 ] - [ INFO ]  Done!
-2019-05-08 23:10:33  [ ForkJoinPool.commonPool-worker-2:67700 ] - [ INFO ]  Done!
-2019-05-08 23:10:35  [ ForkJoinPool.commonPool-worker-2:69687 ] - [ INFO ]  Done!
-2019-05-08 23:10:36  [ ForkJoinPool.commonPool-worker-2:70702 ] - [ INFO ]  Done!
-2019-05-08 23:10:38  [ ForkJoinPool.commonPool-worker-2:72684 ] - [ INFO ]  Done!
-2019-05-08 23:10:39  [ ForkJoinPool.commonPool-worker-2:73708 ] - [ INFO ]  Done!
-2019-05-08 23:10:41  [ ForkJoinPool.commonPool-worker-2:75675 ] - [ INFO ]  Done!
-2019-05-08 23:10:42  [ ForkJoinPool.commonPool-worker-2:76709 ] - [ INFO ]  Done!
-2019-05-08 23:10:44  [ ForkJoinPool.commonPool-worker-2:78685 ] - [ INFO ]  Done!
-2019-05-08 23:10:45  [ ForkJoinPool.commonPool-worker-2:79707 ] - [ INFO ]  Done!
-2019-05-08 23:10:47  [ ForkJoinPool.commonPool-worker-2:81682 ] - [ INFO ]  Done!
-2019-05-08 23:10:48  [ ForkJoinPool.commonPool-worker-2:82704 ] - [ INFO ]  Done!
-2019-05-08 23:10:50  [ ForkJoinPool.commonPool-worker-2:84677 ] - [ INFO ]  Done!
-2019-05-08 23:10:51  [ ForkJoinPool.commonPool-worker-2:85705 ] - [ INFO ]  Done!
-2019-05-08 23:10:53  [ ForkJoinPool.commonPool-worker-2:87676 ] - [ INFO ]  Done!
-2019-05-08 23:10:54  [ ForkJoinPool.commonPool-worker-2:88706 ] - [ INFO ]  Done!
-2019-05-08 23:10:56  [ ForkJoinPool.commonPool-worker-2:90677 ] - [ INFO ]  Done!
-2019-05-08 23:10:57  [ ForkJoinPool.commonPool-worker-2:91711 ] - [ INFO ]  Done!
-2019-05-08 23:10:59  [ ForkJoinPool.commonPool-worker-2:93678 ] - [ INFO ]  Done!
-2019-05-08 23:11:00  [ ForkJoinPool.commonPool-worker-2:94710 ] - [ INFO ]  Done!
-2019-05-08 23:11:02  [ ForkJoinPool.commonPool-worker-2:96690 ] - [ INFO ]  Done!
-2019-05-08 23:11:03  [ ForkJoinPool.commonPool-worker-2:97708 ] - [ INFO ]  Done!
-2019-05-08 23:11:05  [ ForkJoinPool.commonPool-worker-2:99682 ] - [ INFO ]  Done!
-2019-05-08 23:11:06  [ ForkJoinPool.commonPool-worker-2:100711 ] - [ INFO ]  Done!
-2019-05-08 23:11:08  [ ForkJoinPool.commonPool-worker-2:102682 ] - [ INFO ]  Done!
-2019-05-08 23:11:09  [ ForkJoinPool.commonPool-worker-2:103713 ] - [ INFO ]  Done!
-2019-05-08 23:11:11  [ ForkJoinPool.commonPool-worker-2:105682 ] - [ INFO ]  Done!
-2019-05-08 23:11:12  [ ForkJoinPool.commonPool-worker-2:106735 ] - [ INFO ]  Done!
-2019-05-08 23:11:14  [ ForkJoinPool.commonPool-worker-2:108683 ] - [ INFO ]  Done!
-2019-05-08 23:11:15  [ ForkJoinPool.commonPool-worker-2:109717 ] - [ INFO ]  Done!
-2019-05-08 23:11:17  [ ForkJoinPool.commonPool-worker-2:111684 ] - [ INFO ]  Done!
-2019-05-08 23:11:18  [ ForkJoinPool.commonPool-worker-2:112715 ] - [ INFO ]  Done!
-2019-05-08 23:11:20  [ ForkJoinPool.commonPool-worker-2:114685 ] - [ INFO ]  Done!
-2019-05-08 23:11:21  [ ForkJoinPool.commonPool-worker-2:115735 ] - [ INFO ]  Done!
-2019-05-08 23:11:23  [ ForkJoinPool.commonPool-worker-2:117684 ] - [ INFO ]  Done!
-2019-05-08 23:11:24  [ ForkJoinPool.commonPool-worker-2:118714 ] - [ INFO ]  Done!
-2019-05-08 23:11:26  [ ForkJoinPool.commonPool-worker-2:120686 ] - [ INFO ]  Done!
-2019-05-08 23:11:27  [ ForkJoinPool.commonPool-worker-2:121716 ] - [ INFO ]  Done!
-2019-05-08 23:11:29  [ ForkJoinPool.commonPool-worker-2:123687 ] - [ INFO ]  Done!
-2019-05-08 23:11:30  [ ForkJoinPool.commonPool-worker-2:124717 ] - [ INFO ]  Done!
-2019-05-08 23:11:32  [ ForkJoinPool.commonPool-worker-2:126688 ] - [ INFO ]  Done!
-2019-05-08 23:11:33  [ ForkJoinPool.commonPool-worker-2:127716 ] - [ INFO ]  Done!
-2019-05-08 23:11:35  [ ForkJoinPool.commonPool-worker-2:129688 ] - [ INFO ]  Done!
-2019-05-08 23:11:36  [ ForkJoinPool.commonPool-worker-2:130733 ] - [ INFO ]  Done!
-2019-05-08 23:11:38  [ ForkJoinPool.commonPool-worker-2:132695 ] - [ INFO ]  Done!
-2019-05-08 23:11:39  [ ForkJoinPool.commonPool-worker-2:133722 ] - [ INFO ]  Done!
-2019-05-08 23:11:41  [ ForkJoinPool.commonPool-worker-2:135689 ] - [ INFO ]  Done!
-2019-05-08 23:11:42  [ ForkJoinPool.commonPool-worker-2:136720 ] - [ INFO ]  Done!
-2019-05-08 23:11:44  [ ForkJoinPool.commonPool-worker-2:138690 ] - [ INFO ]  Done!
-2019-05-08 23:11:45  [ ForkJoinPool.commonPool-worker-2:139723 ] - [ INFO ]  Done!
-2019-05-08 23:11:47  [ ForkJoinPool.commonPool-worker-2:141691 ] - [ INFO ]  Done!
-2019-05-08 23:11:48  [ ForkJoinPool.commonPool-worker-2:142724 ] - [ INFO ]  Done!
-2019-05-08 23:11:50  [ ForkJoinPool.commonPool-worker-2:144691 ] - [ INFO ]  Done!
-2019-05-08 23:11:51  [ ForkJoinPool.commonPool-worker-2:145723 ] - [ INFO ]  Done!
-2019-05-08 23:11:53  [ ForkJoinPool.commonPool-worker-2:147693 ] - [ INFO ]  Done!
-2019-05-08 23:11:54  [ ForkJoinPool.commonPool-worker-2:148724 ] - [ INFO ]  Done!
-2019-05-08 23:11:56  [ ForkJoinPool.commonPool-worker-2:150694 ] - [ INFO ]  Done!
-2019-05-08 23:11:57  [ ForkJoinPool.commonPool-worker-2:151724 ] - [ INFO ]  Done!
-2019-05-08 23:11:59  [ ForkJoinPool.commonPool-worker-2:153695 ] - [ INFO ]  Done!
-2019-05-08 23:12:00  [ ForkJoinPool.commonPool-worker-2:154727 ] - [ INFO ]  Done!
-2019-05-08 23:12:02  [ ForkJoinPool.commonPool-worker-2:156695 ] - [ INFO ]  Done!
-2019-05-08 23:12:03  [ ForkJoinPool.commonPool-worker-2:157727 ] - [ INFO ]  Done!
-2019-05-08 23:12:05  [ ForkJoinPool.commonPool-worker-2:159696 ] - [ INFO ]  Done!
-2019-05-08 23:12:06  [ ForkJoinPool.commonPool-worker-2:160729 ] - [ INFO ]  Done!
-2019-05-08 23:12:08  [ ForkJoinPool.commonPool-worker-2:162698 ] - [ INFO ]  Done!
-2019-05-08 23:12:09  [ ForkJoinPool.commonPool-worker-2:163729 ] - [ INFO ]  Done!
-2019-05-08 23:12:11  [ ForkJoinPool.commonPool-worker-2:165699 ] - [ INFO ]  Done!
-2019-05-08 23:12:12  [ ForkJoinPool.commonPool-worker-2:166732 ] - [ INFO ]  Done!
-2019-05-08 23:12:14  [ ForkJoinPool.commonPool-worker-2:168714 ] - [ INFO ]  Done!
-2019-05-08 23:12:15  [ ForkJoinPool.commonPool-worker-2:169732 ] - [ INFO ]  Done!
-2019-05-08 23:12:17  [ ForkJoinPool.commonPool-worker-2:171701 ] - [ INFO ]  Done!
-2019-05-08 23:12:18  [ ForkJoinPool.commonPool-worker-2:172733 ] - [ INFO ]  Done!
-2019-05-08 23:12:20  [ ForkJoinPool.commonPool-worker-2:174702 ] - [ INFO ]  Done!
-2019-05-08 23:12:21  [ ForkJoinPool.commonPool-worker-2:175732 ] - [ INFO ]  Done!
-2019-05-08 23:12:23  [ ForkJoinPool.commonPool-worker-2:177702 ] - [ INFO ]  Done!
-2019-05-08 23:12:24  [ ForkJoinPool.commonPool-worker-2:178732 ] - [ INFO ]  Done!
-2019-05-08 23:12:26  [ ForkJoinPool.commonPool-worker-2:180704 ] - [ INFO ]  Done!
-2019-05-08 23:12:27  [ ForkJoinPool.commonPool-worker-2:181733 ] - [ INFO ]  Done!
-2019-05-08 23:12:29  [ ForkJoinPool.commonPool-worker-2:183704 ] - [ INFO ]  Done!
-2019-05-08 23:12:30  [ ForkJoinPool.commonPool-worker-2:184737 ] - [ INFO ]  Done!
-2019-05-08 23:12:31  [ Thread-4:185701 ] - [ INFO ]  sshSession closed!
-2019-05-08 23:12:32  [ Thread-5:186731 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:38:19  [ Thread-4:1 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:38:19  [ Thread-4:114 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:38:19  [ Thread-4:126 ] - [ INFO ]  file:/autotest/shell/auto_deploy_master.sh upload success...
+2019-06-03 14:38:19  [ Thread-4:126 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:38:21  [ Thread-4:2496 ] - [ INFO ]  Done!
+2019-06-03 14:38:21  [ Thread-4:2500 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:38:21  [ Thread-4:2501 ] - [ DEBUG ]  binlogName: mysql-bin.000023
+2019-06-03 14:38:21  [ Thread-4:2501 ] - [ DEBUG ]  position: 454
+2019-06-03 14:38:21  [ Thread-7:2577 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:38:21  [ Thread-7:2705 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:38:21  [ Thread-7:2714 ] - [ INFO ]  file:/autotest/shell/auto_deploy_slave.sh upload success...
+2019-06-03 14:38:21  [ Thread-7:2714 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:38:25  [ Thread-7:6582 ] - [ INFO ]  Done!
+2019-06-03 14:38:25  [ Thread-7:6583 ] - [ DEBUG ]  Replication Result: SUCCESS
+2019-06-03 14:38:25  [ Thread-7:6584 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:38:58  [ Thread-10:39230 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:38:58  [ Thread-10:39343 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:38:58  [ Thread-10:39546 ] - [ INFO ]  file:/autotest/tools/sysbench-3.0.0.tar.gz upload success...
+2019-06-03 14:38:58  [ Thread-10:39546 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:38:58  [ Thread-10:39563 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:38:58  [ Thread-10:39579 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-06-03 14:38:58  [ Thread-10:39579 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:39:27  [ Thread-14:68220 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:39:27  [ Thread-14:68461 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:39:27  [ Thread-14:68471 ] - [ INFO ]  file:/autotest/shell/install_sysstat.sh upload success...
+2019-06-03 14:39:27  [ Thread-14:68472 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:39:27  [ Thread-14:68480 ] - [ INFO ]  Done!
+2019-06-03 14:39:28  [ ForkJoinPool.commonPool-worker-1:69520 ] - [ INFO ]  Done!
+2019-06-03 14:39:29  [ Thread-13:70106 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:39:29  [ Thread-13:70710 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:39:29  [ Thread-13:70713 ] - [ INFO ]  file:/autotest/shell/install_sysstat.sh upload success...
+2019-06-03 14:39:29  [ Thread-13:70713 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:39:29  [ Thread-13:70724 ] - [ INFO ]  Done!
+2019-06-03 14:39:31  [ ForkJoinPool.commonPool-worker-1:71785 ] - [ INFO ]  Done!
+2019-06-03 14:39:31  [ ForkJoinPool.commonPool-worker-2:72502 ] - [ INFO ]  Done!
+2019-06-03 14:39:34  [ ForkJoinPool.commonPool-worker-2:74764 ] - [ INFO ]  Done!
+2019-06-03 14:39:34  [ ForkJoinPool.commonPool-worker-1:75513 ] - [ INFO ]  Done!
+2019-06-03 14:39:37  [ ForkJoinPool.commonPool-worker-1:77759 ] - [ INFO ]  Done!
+2019-06-03 14:39:37  [ ForkJoinPool.commonPool-worker-2:78515 ] - [ INFO ]  Done!
+2019-06-03 14:39:40  [ ForkJoinPool.commonPool-worker-2:80769 ] - [ INFO ]  Done!
+2019-06-03 14:39:40  [ ForkJoinPool.commonPool-worker-1:81513 ] - [ INFO ]  Done!
+2019-06-03 14:39:43  [ ForkJoinPool.commonPool-worker-1:83773 ] - [ INFO ]  Done!
+2019-06-03 14:39:43  [ ForkJoinPool.commonPool-worker-2:84515 ] - [ INFO ]  Done!
+2019-06-03 14:39:46  [ ForkJoinPool.commonPool-worker-2:86766 ] - [ INFO ]  Done!
+2019-06-03 14:39:46  [ ForkJoinPool.commonPool-worker-1:87506 ] - [ INFO ]  Done!
+2019-06-03 14:39:49  [ ForkJoinPool.commonPool-worker-1:89780 ] - [ INFO ]  Done!
+2019-06-03 14:39:49  [ ForkJoinPool.commonPool-worker-2:90507 ] - [ INFO ]  Done!
+2019-06-03 14:39:52  [ ForkJoinPool.commonPool-worker-2:92761 ] - [ INFO ]  Done!
+2019-06-03 14:39:52  [ ForkJoinPool.commonPool-worker-1:93513 ] - [ INFO ]  Done!
+2019-06-03 14:39:55  [ ForkJoinPool.commonPool-worker-1:95765 ] - [ INFO ]  Done!
+2019-06-03 14:39:55  [ ForkJoinPool.commonPool-worker-2:96514 ] - [ INFO ]  Done!
+2019-06-03 14:39:58  [ ForkJoinPool.commonPool-worker-2:98774 ] - [ INFO ]  Done!
+2019-06-03 14:39:58  [ ForkJoinPool.commonPool-worker-1:99515 ] - [ INFO ]  Done!
+2019-06-03 14:40:01  [ ForkJoinPool.commonPool-worker-1:101737 ] - [ INFO ]  Done!
+2019-06-03 14:40:01  [ ForkJoinPool.commonPool-worker-2:102504 ] - [ INFO ]  Done!
+2019-06-03 14:40:04  [ ForkJoinPool.commonPool-worker-2:104737 ] - [ INFO ]  Done!
+2019-06-03 14:40:04  [ ForkJoinPool.commonPool-worker-1:105506 ] - [ INFO ]  Done!
+2019-06-03 14:40:07  [ ForkJoinPool.commonPool-worker-1:107737 ] - [ INFO ]  Done!
+2019-06-03 14:40:07  [ ForkJoinPool.commonPool-worker-2:108508 ] - [ INFO ]  Done!
+2019-06-03 14:40:09  [ Thread-14:110498 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:40:10  [ ForkJoinPool.commonPool-worker-2:110748 ] - [ INFO ]  Done!
+2019-06-03 14:40:12  [ Thread-13:112731 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:40:19  [ Thread-20:119978 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:40:19  [ Thread-20:120102 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:40:19  [ Thread-20:120105 ] - [ INFO ]  file:/autotest/shell/install_sysstat.sh upload success...
+2019-06-03 14:40:19  [ Thread-20:120105 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:40:19  [ Thread-20:120109 ] - [ INFO ]  Done!
+2019-06-03 14:40:20  [ Thread-10:120737 ] - [ INFO ]  Done!
+2019-06-03 14:40:20  [ Thread-10:120749 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:40:20  [ Thread-10:120753 ] - [ INFO ]  file:sysbench_read_write_20190603023858.log download success...
+2019-06-03 14:40:20  [ Thread-10:120754 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:40:20  [ Thread-10:120754 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:40:20  [ ForkJoinPool.commonPool-worker-2:121118 ] - [ INFO ]  Done!
+2019-06-03 14:40:21  [ Thread-19:121917 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:40:21  [ Thread-19:122015 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:40:21  [ Thread-19:122017 ] - [ INFO ]  file:/autotest/shell/install_sysstat.sh upload success...
+2019-06-03 14:40:21  [ Thread-19:122017 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:40:21  [ Thread-19:122021 ] - [ INFO ]  Done!
+2019-06-03 14:40:22  [ ForkJoinPool.commonPool-worker-2:123030 ] - [ INFO ]  Done!
+2019-06-03 14:40:23  [ ForkJoinPool.commonPool-worker-2:124116 ] - [ INFO ]  Done!
+2019-06-03 14:40:25  [ ForkJoinPool.commonPool-worker-2:126030 ] - [ INFO ]  Done!
+2019-06-03 14:40:26  [ ForkJoinPool.commonPool-worker-2:127117 ] - [ INFO ]  Done!
+2019-06-03 14:40:28  [ ForkJoinPool.commonPool-worker-2:129031 ] - [ INFO ]  Done!
+2019-06-03 14:40:29  [ ForkJoinPool.commonPool-worker-2:130119 ] - [ INFO ]  Done!
+2019-06-03 14:40:31  [ ForkJoinPool.commonPool-worker-2:132032 ] - [ INFO ]  Done!
+2019-06-03 14:40:32  [ ForkJoinPool.commonPool-worker-2:133119 ] - [ INFO ]  Done!
+2019-06-03 14:40:34  [ ForkJoinPool.commonPool-worker-2:135032 ] - [ INFO ]  Done!
+2019-06-03 14:40:35  [ ForkJoinPool.commonPool-worker-2:136120 ] - [ INFO ]  Done!
+2019-06-03 14:40:37  [ ForkJoinPool.commonPool-worker-2:138033 ] - [ INFO ]  Done!
+2019-06-03 14:40:38  [ ForkJoinPool.commonPool-worker-2:139119 ] - [ INFO ]  Done!
+2019-06-03 14:40:40  [ ForkJoinPool.commonPool-worker-2:141032 ] - [ INFO ]  Done!
+2019-06-03 14:40:41  [ ForkJoinPool.commonPool-worker-2:142119 ] - [ INFO ]  Done!
+2019-06-03 14:40:43  [ ForkJoinPool.commonPool-worker-2:144033 ] - [ INFO ]  Done!
+2019-06-03 14:40:44  [ ForkJoinPool.commonPool-worker-2:145120 ] - [ INFO ]  Done!
+2019-06-03 14:40:46  [ ForkJoinPool.commonPool-worker-2:147033 ] - [ INFO ]  Done!
+2019-06-03 14:40:47  [ ForkJoinPool.commonPool-worker-2:148120 ] - [ INFO ]  Done!
+2019-06-03 14:40:49  [ ForkJoinPool.commonPool-worker-2:150034 ] - [ INFO ]  Done!
+2019-06-03 14:40:50  [ ForkJoinPool.commonPool-worker-2:151121 ] - [ INFO ]  Done!
+2019-06-03 14:40:52  [ ForkJoinPool.commonPool-worker-2:153035 ] - [ INFO ]  Done!
+2019-06-03 14:40:53  [ ForkJoinPool.commonPool-worker-2:154121 ] - [ INFO ]  Done!
+2019-06-03 14:40:55  [ ForkJoinPool.commonPool-worker-2:156036 ] - [ INFO ]  Done!
+2019-06-03 14:40:56  [ ForkJoinPool.commonPool-worker-2:157122 ] - [ INFO ]  Done!
+2019-06-03 14:40:58  [ ForkJoinPool.commonPool-worker-2:159036 ] - [ INFO ]  Done!
+2019-06-03 14:40:59  [ ForkJoinPool.commonPool-worker-2:160124 ] - [ INFO ]  Done!
+2019-06-03 14:41:01  [ ForkJoinPool.commonPool-worker-2:162035 ] - [ INFO ]  Done!
+2019-06-03 14:41:02  [ ForkJoinPool.commonPool-worker-2:163123 ] - [ INFO ]  Done!
+2019-06-03 14:41:04  [ ForkJoinPool.commonPool-worker-2:165037 ] - [ INFO ]  Done!
+2019-06-03 14:41:05  [ ForkJoinPool.commonPool-worker-2:166124 ] - [ INFO ]  Done!
+2019-06-03 14:41:07  [ ForkJoinPool.commonPool-worker-2:168036 ] - [ INFO ]  Done!
+2019-06-03 14:41:08  [ ForkJoinPool.commonPool-worker-2:169125 ] - [ INFO ]  Done!
+2019-06-03 14:41:10  [ ForkJoinPool.commonPool-worker-2:171037 ] - [ INFO ]  Done!
+2019-06-03 14:41:11  [ ForkJoinPool.commonPool-worker-2:172124 ] - [ INFO ]  Done!
+2019-06-03 14:41:13  [ ForkJoinPool.commonPool-worker-2:174039 ] - [ INFO ]  Done!
+2019-06-03 14:41:14  [ ForkJoinPool.commonPool-worker-2:175126 ] - [ INFO ]  Done!
+2019-06-03 14:41:16  [ ForkJoinPool.commonPool-worker-2:177039 ] - [ INFO ]  Done!
+2019-06-03 14:41:17  [ ForkJoinPool.commonPool-worker-2:178126 ] - [ INFO ]  Done!
+2019-06-03 14:41:19  [ ForkJoinPool.commonPool-worker-2:180039 ] - [ INFO ]  Done!
+2019-06-03 14:41:20  [ ForkJoinPool.commonPool-worker-2:181126 ] - [ INFO ]  Done!
+2019-06-03 14:41:22  [ ForkJoinPool.commonPool-worker-2:183039 ] - [ INFO ]  Done!
+2019-06-03 14:41:23  [ ForkJoinPool.commonPool-worker-2:184126 ] - [ INFO ]  Done!
+2019-06-03 14:41:25  [ ForkJoinPool.commonPool-worker-2:186040 ] - [ INFO ]  Done!
+2019-06-03 14:41:26  [ ForkJoinPool.commonPool-worker-2:187127 ] - [ INFO ]  Done!
+2019-06-03 14:41:28  [ ForkJoinPool.commonPool-worker-2:189040 ] - [ INFO ]  Done!
+2019-06-03 14:41:29  [ ForkJoinPool.commonPool-worker-2:190127 ] - [ INFO ]  Done!
+2019-06-03 14:41:31  [ ForkJoinPool.commonPool-worker-2:192040 ] - [ INFO ]  Done!
+2019-06-03 14:41:32  [ ForkJoinPool.commonPool-worker-2:193128 ] - [ INFO ]  Done!
+2019-06-03 14:41:34  [ ForkJoinPool.commonPool-worker-2:195044 ] - [ INFO ]  Done!
+2019-06-03 14:41:35  [ ForkJoinPool.commonPool-worker-2:196128 ] - [ INFO ]  Done!
+2019-06-03 14:41:37  [ ForkJoinPool.commonPool-worker-2:198042 ] - [ INFO ]  Done!
+2019-06-03 14:41:38  [ ForkJoinPool.commonPool-worker-2:199129 ] - [ INFO ]  Done!
+2019-06-03 14:41:40  [ ForkJoinPool.commonPool-worker-2:201042 ] - [ INFO ]  Done!
+2019-06-03 14:41:41  [ ForkJoinPool.commonPool-worker-2:202128 ] - [ INFO ]  Done!
+2019-06-03 14:41:43  [ ForkJoinPool.commonPool-worker-2:204043 ] - [ INFO ]  Done!
+2019-06-03 14:41:44  [ ForkJoinPool.commonPool-worker-2:205128 ] - [ INFO ]  Done!
+2019-06-03 14:41:46  [ ForkJoinPool.commonPool-worker-2:207049 ] - [ INFO ]  Done!
+2019-06-03 14:41:47  [ ForkJoinPool.commonPool-worker-2:208128 ] - [ INFO ]  Done!
+2019-06-03 14:41:49  [ ForkJoinPool.commonPool-worker-2:210048 ] - [ INFO ]  Done!
+2019-06-03 14:41:50  [ ForkJoinPool.commonPool-worker-2:211132 ] - [ INFO ]  Done!
+2019-06-03 14:41:52  [ ForkJoinPool.commonPool-worker-2:213050 ] - [ INFO ]  Done!
+2019-06-03 14:41:53  [ ForkJoinPool.commonPool-worker-2:214130 ] - [ INFO ]  Done!
+2019-06-03 14:41:55  [ ForkJoinPool.commonPool-worker-2:216051 ] - [ INFO ]  Done!
+2019-06-03 14:41:56  [ ForkJoinPool.commonPool-worker-2:217131 ] - [ INFO ]  Done!
+2019-06-03 14:41:58  [ ForkJoinPool.commonPool-worker-2:219051 ] - [ INFO ]  Done!
+2019-06-03 14:41:59  [ ForkJoinPool.commonPool-worker-2:220130 ] - [ INFO ]  Done!
+2019-06-03 14:42:01  [ ForkJoinPool.commonPool-worker-2:222052 ] - [ INFO ]  Done!
+2019-06-03 14:42:02  [ ForkJoinPool.commonPool-worker-2:223131 ] - [ INFO ]  Done!
+2019-06-03 14:42:04  [ ForkJoinPool.commonPool-worker-2:225051 ] - [ INFO ]  Done!
+2019-06-03 14:42:05  [ ForkJoinPool.commonPool-worker-2:226131 ] - [ INFO ]  Done!
+2019-06-03 14:42:06  [ Thread-25:227179 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:42:06  [ Thread-25:227280 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:42:06  [ Thread-25:227445 ] - [ INFO ]  file:/autotest/tools/sysbench-3.0.0.tar.gz upload success...
+2019-06-03 14:42:06  [ Thread-25:227445 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:42:06  [ Thread-25:227458 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:42:06  [ Thread-25:227471 ] - [ INFO ]  file:/autotest/shell/sysbench_test.sh upload success...
+2019-06-03 14:42:06  [ Thread-25:227471 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:42:07  [ ForkJoinPool.commonPool-worker-2:228051 ] - [ INFO ]  Done!
+2019-06-03 14:42:08  [ ForkJoinPool.commonPool-worker-2:229141 ] - [ INFO ]  Done!
+2019-06-03 14:42:10  [ ForkJoinPool.commonPool-worker-2:231062 ] - [ INFO ]  Done!
+2019-06-03 14:42:11  [ ForkJoinPool.commonPool-worker-2:232137 ] - [ INFO ]  Done!
+2019-06-03 14:42:13  [ ForkJoinPool.commonPool-worker-2:234053 ] - [ INFO ]  Done!
+2019-06-03 14:42:14  [ ForkJoinPool.commonPool-worker-2:235132 ] - [ INFO ]  Done!
+2019-06-03 14:42:16  [ ForkJoinPool.commonPool-worker-2:237053 ] - [ INFO ]  Done!
+2019-06-03 14:42:17  [ ForkJoinPool.commonPool-worker-2:238132 ] - [ INFO ]  Done!
+2019-06-03 14:42:19  [ ForkJoinPool.commonPool-worker-2:240070 ] - [ INFO ]  Done!
+2019-06-03 14:42:20  [ ForkJoinPool.commonPool-worker-2:241132 ] - [ INFO ]  Done!
+2019-06-03 14:42:22  [ ForkJoinPool.commonPool-worker-2:243059 ] - [ INFO ]  Done!
+2019-06-03 14:42:23  [ ForkJoinPool.commonPool-worker-2:244132 ] - [ INFO ]  Done!
+2019-06-03 14:42:25  [ ForkJoinPool.commonPool-worker-2:246053 ] - [ INFO ]  Done!
+2019-06-03 14:42:26  [ ForkJoinPool.commonPool-worker-2:247134 ] - [ INFO ]  Done!
+2019-06-03 14:42:28  [ ForkJoinPool.commonPool-worker-2:249054 ] - [ INFO ]  Done!
+2019-06-03 14:42:29  [ ForkJoinPool.commonPool-worker-2:250137 ] - [ INFO ]  Done!
+2019-06-03 14:42:31  [ ForkJoinPool.commonPool-worker-2:252054 ] - [ INFO ]  Done!
+2019-06-03 14:42:32  [ ForkJoinPool.commonPool-worker-2:253134 ] - [ INFO ]  Done!
+2019-06-03 14:42:34  [ ForkJoinPool.commonPool-worker-2:255055 ] - [ INFO ]  Done!
+2019-06-03 14:42:35  [ ForkJoinPool.commonPool-worker-2:256133 ] - [ INFO ]  Done!
+2019-06-03 14:42:37  [ ForkJoinPool.commonPool-worker-2:258056 ] - [ INFO ]  Done!
+2019-06-03 14:42:38  [ ForkJoinPool.commonPool-worker-2:259134 ] - [ INFO ]  Done!
+2019-06-03 14:42:40  [ ForkJoinPool.commonPool-worker-2:261057 ] - [ INFO ]  Done!
+2019-06-03 14:42:41  [ ForkJoinPool.commonPool-worker-2:262134 ] - [ INFO ]  Done!
+2019-06-03 14:42:43  [ ForkJoinPool.commonPool-worker-2:264057 ] - [ INFO ]  Done!
+2019-06-03 14:42:44  [ ForkJoinPool.commonPool-worker-2:265136 ] - [ INFO ]  Done!
+2019-06-03 14:42:46  [ ForkJoinPool.commonPool-worker-2:267057 ] - [ INFO ]  Done!
+2019-06-03 14:42:47  [ ForkJoinPool.commonPool-worker-2:268136 ] - [ INFO ]  Done!
+2019-06-03 14:42:49  [ ForkJoinPool.commonPool-worker-2:270057 ] - [ INFO ]  Done!
+2019-06-03 14:42:50  [ ForkJoinPool.commonPool-worker-2:271137 ] - [ INFO ]  Done!
+2019-06-03 14:42:52  [ ForkJoinPool.commonPool-worker-2:273059 ] - [ INFO ]  Done!
+2019-06-03 14:42:53  [ ForkJoinPool.commonPool-worker-2:274136 ] - [ INFO ]  Done!
+2019-06-03 14:42:55  [ ForkJoinPool.commonPool-worker-2:276060 ] - [ INFO ]  Done!
+2019-06-03 14:42:56  [ ForkJoinPool.commonPool-worker-2:277136 ] - [ INFO ]  Done!
+2019-06-03 14:42:58  [ ForkJoinPool.commonPool-worker-2:279060 ] - [ INFO ]  Done!
+2019-06-03 14:42:59  [ ForkJoinPool.commonPool-worker-2:280152 ] - [ INFO ]  Done!
+2019-06-03 14:43:01  [ ForkJoinPool.commonPool-worker-2:282063 ] - [ INFO ]  Done!
+2019-06-03 14:43:02  [ ForkJoinPool.commonPool-worker-2:283137 ] - [ INFO ]  Done!
+2019-06-03 14:43:04  [ ForkJoinPool.commonPool-worker-2:285062 ] - [ INFO ]  Done!
+2019-06-03 14:43:05  [ ForkJoinPool.commonPool-worker-2:286139 ] - [ INFO ]  Done!
+2019-06-03 14:43:07  [ ForkJoinPool.commonPool-worker-2:288063 ] - [ INFO ]  Done!
+2019-06-03 14:43:08  [ ForkJoinPool.commonPool-worker-2:289138 ] - [ INFO ]  Done!
+2019-06-03 14:43:10  [ ForkJoinPool.commonPool-worker-2:291062 ] - [ INFO ]  Done!
+2019-06-03 14:43:11  [ ForkJoinPool.commonPool-worker-2:292139 ] - [ INFO ]  Done!
+2019-06-03 14:43:13  [ ForkJoinPool.commonPool-worker-2:294063 ] - [ INFO ]  Done!
+2019-06-03 14:43:14  [ ForkJoinPool.commonPool-worker-2:295150 ] - [ INFO ]  Done!
+2019-06-03 14:43:16  [ ForkJoinPool.commonPool-worker-2:297064 ] - [ INFO ]  Done!
+2019-06-03 14:43:17  [ Thread-25:297851 ] - [ INFO ]  Done!
+2019-06-03 14:43:17  [ Thread-25:297862 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:43:17  [ Thread-25:297866 ] - [ INFO ]  file:sysbench_point_select_20190603024206.log download success...
+2019-06-03 14:43:17  [ Thread-25:297866 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:43:17  [ Thread-25:297866 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:43:17  [ ForkJoinPool.commonPool-worker-2:298139 ] - [ INFO ]  Done!
+2019-06-03 14:43:19  [ ForkJoinPool.commonPool-worker-2:300064 ] - [ INFO ]  Done!
+2019-06-03 14:43:20  [ ForkJoinPool.commonPool-worker-2:301141 ] - [ INFO ]  Done!
+2019-06-03 14:43:22  [ ForkJoinPool.commonPool-worker-2:303063 ] - [ INFO ]  Done!
+2019-06-03 14:43:23  [ ForkJoinPool.commonPool-worker-2:304141 ] - [ INFO ]  Done!
+2019-06-03 14:43:25  [ ForkJoinPool.commonPool-worker-2:306064 ] - [ INFO ]  Done!
+2019-06-03 14:43:26  [ ForkJoinPool.commonPool-worker-2:307142 ] - [ INFO ]  Done!
+2019-06-03 14:43:28  [ ForkJoinPool.commonPool-worker-2:309064 ] - [ INFO ]  Done!
+2019-06-03 14:43:29  [ ForkJoinPool.commonPool-worker-2:310143 ] - [ INFO ]  Done!
+2019-06-03 14:43:31  [ ForkJoinPool.commonPool-worker-2:312064 ] - [ INFO ]  Done!
+2019-06-03 14:43:32  [ ForkJoinPool.commonPool-worker-2:313141 ] - [ INFO ]  Done!
+2019-06-03 14:43:34  [ ForkJoinPool.commonPool-worker-2:315066 ] - [ INFO ]  Done!
+2019-06-03 14:43:35  [ ForkJoinPool.commonPool-worker-2:316142 ] - [ INFO ]  Done!
+2019-06-03 14:43:37  [ ForkJoinPool.commonPool-worker-2:318067 ] - [ INFO ]  Done!
+2019-06-03 14:43:38  [ ForkJoinPool.commonPool-worker-2:319143 ] - [ INFO ]  Done!
+2019-06-03 14:43:40  [ ForkJoinPool.commonPool-worker-2:321067 ] - [ INFO ]  Done!
+2019-06-03 14:43:41  [ ForkJoinPool.commonPool-worker-2:322143 ] - [ INFO ]  Done!
+2019-06-03 14:43:43  [ ForkJoinPool.commonPool-worker-2:324067 ] - [ INFO ]  Done!
+2019-06-03 14:43:44  [ ForkJoinPool.commonPool-worker-2:325143 ] - [ INFO ]  Done!
+2019-06-03 14:43:46  [ ForkJoinPool.commonPool-worker-2:327068 ] - [ INFO ]  Done!
+2019-06-03 14:43:47  [ ForkJoinPool.commonPool-worker-2:328148 ] - [ INFO ]  Done!
+2019-06-03 14:43:49  [ ForkJoinPool.commonPool-worker-2:330070 ] - [ INFO ]  Done!
+2019-06-03 14:43:49  [ Thread-28:330594 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:43:49  [ Thread-28:330697 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:43:49  [ Thread-28:330717 ] - [ INFO ]  file:/autotest/tools/tpcc-mysql.tar.gz upload success...
+2019-06-03 14:43:49  [ Thread-28:330717 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:43:50  [ Thread-28:330728 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:43:50  [ Thread-28:330734 ] - [ INFO ]  file:/autotest/shell/business_scenario_test.sh upload success...
+2019-06-03 14:43:50  [ Thread-28:330734 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:43:50  [ ForkJoinPool.commonPool-worker-2:331146 ] - [ INFO ]  Done!
+2019-06-03 14:43:52  [ ForkJoinPool.commonPool-worker-2:333088 ] - [ INFO ]  Done!
+2019-06-03 14:43:53  [ ForkJoinPool.commonPool-worker-2:334145 ] - [ INFO ]  Done!
+2019-06-03 14:43:55  [ ForkJoinPool.commonPool-worker-2:336086 ] - [ INFO ]  Done!
+2019-06-03 14:43:56  [ ForkJoinPool.commonPool-worker-2:337159 ] - [ INFO ]  Done!
+2019-06-03 14:43:58  [ ForkJoinPool.commonPool-worker-2:339085 ] - [ INFO ]  Done!
+2019-06-03 14:43:59  [ ForkJoinPool.commonPool-worker-2:340150 ] - [ INFO ]  Done!
+2019-06-03 14:44:01  [ ForkJoinPool.commonPool-worker-2:342086 ] - [ INFO ]  Done!
+2019-06-03 14:44:02  [ ForkJoinPool.commonPool-worker-2:343151 ] - [ INFO ]  Done!
+2019-06-03 14:44:04  [ ForkJoinPool.commonPool-worker-2:345133 ] - [ INFO ]  Done!
+2019-06-03 14:44:05  [ ForkJoinPool.commonPool-worker-2:346148 ] - [ INFO ]  Done!
+2019-06-03 14:44:07  [ ForkJoinPool.commonPool-worker-2:348080 ] - [ INFO ]  Done!
+2019-06-03 14:44:08  [ ForkJoinPool.commonPool-worker-2:349154 ] - [ INFO ]  Done!
+2019-06-03 14:44:10  [ ForkJoinPool.commonPool-worker-2:351075 ] - [ INFO ]  Done!
+2019-06-03 14:44:10  [ Thread-33:351566 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:44:11  [ Thread-33:351727 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:44:11  [ Thread-33:351822 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:44:11  [ Thread-33:351822 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:44:11  [ Thread-33:351837 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:44:11  [ Thread-33:351852 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-06-03 14:44:11  [ Thread-33:351852 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:44:11  [ ForkJoinPool.commonPool-worker-2:352153 ] - [ INFO ]  Done!
+2019-06-03 14:44:12  [ Thread-31:353571 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:44:13  [ Thread-31:353772 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:44:13  [ Thread-31:353889 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:44:13  [ Thread-31:353889 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:44:13  [ Thread-31:353900 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:44:13  [ Thread-31:353904 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-06-03 14:44:13  [ Thread-31:353904 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:44:13  [ ForkJoinPool.commonPool-worker-2:354104 ] - [ INFO ]  Done!
+2019-06-03 14:44:14  [ ForkJoinPool.commonPool-worker-2:355152 ] - [ INFO ]  Done!
+2019-06-03 14:44:16  [ ForkJoinPool.commonPool-worker-2:357079 ] - [ INFO ]  Done!
+2019-06-03 14:44:17  [ ForkJoinPool.commonPool-worker-2:358157 ] - [ INFO ]  Done!
+2019-06-03 14:44:17  [ Thread-33:358527 ] - [ INFO ]  Done!
+2019-06-03 14:44:17  [ Thread-33:358528 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:44:19  [ ForkJoinPool.commonPool-worker-2:360084 ] - [ INFO ]  Done!
+2019-06-03 14:44:20  [ Thread-31:360811 ] - [ INFO ]  Done!
+2019-06-03 14:44:20  [ Thread-31:360812 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:44:20  [ ForkJoinPool.commonPool-worker-2:361166 ] - [ INFO ]  Done!
+2019-06-03 14:44:22  [ ForkJoinPool.commonPool-worker-2:363087 ] - [ INFO ]  Done!
+2019-06-03 14:44:23  [ JavaFX Application Thread:364012 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:44:23  [ ForkJoinPool.commonPool-worker-2:364158 ] - [ INFO ]  Done!
+2019-06-03 14:44:24  [ JavaFX Application Thread:365114 ] - [ INFO ]  Done!
+2019-06-03 14:44:24  [ JavaFX Application Thread:365128 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:44:25  [ ForkJoinPool.commonPool-worker-2:366079 ] - [ INFO ]  Done!
+2019-06-03 14:44:26  [ ForkJoinPool.commonPool-worker-2:367185 ] - [ INFO ]  Done!
+2019-06-03 14:44:28  [ ForkJoinPool.commonPool-worker-2:369076 ] - [ INFO ]  Done!
+2019-06-03 14:44:29  [ ForkJoinPool.commonPool-worker-2:370155 ] - [ INFO ]  Done!
+2019-06-03 14:44:29  [ Thread-39:370444 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:44:31  [ ForkJoinPool.commonPool-worker-1:372076 ] - [ INFO ]  Done!
+2019-06-03 14:44:31  [ ForkJoinPool.commonPool-worker-2:372120 ] - [ INFO ]  Done!
+2019-06-03 14:44:32  [ ForkJoinPool.commonPool-worker-1:373118 ] - [ INFO ]  Done!
+2019-06-03 14:44:32  [ ForkJoinPool.commonPool-worker-1:373119 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:44:32  [ ForkJoinPool.commonPool-worker-2:373153 ] - [ INFO ]  Done!
+2019-06-03 14:44:34  [ ForkJoinPool.commonPool-worker-2:375080 ] - [ INFO ]  Done!
+2019-06-03 14:44:34  [ ForkJoinPool.commonPool-worker-1:375119 ] - [ INFO ]  Done!
+2019-06-03 14:44:34  [ ForkJoinPool.commonPool-worker-1:375120 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:44:35  [ ForkJoinPool.commonPool-worker-1:376152 ] - [ INFO ]  Done!
+2019-06-03 14:44:36  [ ForkJoinPool.commonPool-worker-1:377120 ] - [ INFO ]  Done!
+2019-06-03 14:44:36  [ ForkJoinPool.commonPool-worker-1:377120 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:44:37  [ ForkJoinPool.commonPool-worker-2:378078 ] - [ INFO ]  Done!
+2019-06-03 14:44:38  [ ForkJoinPool.commonPool-worker-1:379122 ] - [ INFO ]  Done!
+2019-06-03 14:44:38  [ ForkJoinPool.commonPool-worker-2:379157 ] - [ INFO ]  Done!
+2019-06-03 14:44:40  [ ForkJoinPool.commonPool-worker-2:381079 ] - [ INFO ]  Done!
+2019-06-03 14:44:40  [ ForkJoinPool.commonPool-worker-1:381123 ] - [ INFO ]  Done!
+2019-06-03 14:44:41  [ ForkJoinPool.commonPool-worker-1:382157 ] - [ INFO ]  Done!
+2019-06-03 14:44:41  [ Thread-39:382447 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:44:42  [ Thread-19:383070 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:44:43  [ Thread-20:384146 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:44:57  [ Thread-42:398146 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:44:58  [ ForkJoinPool.commonPool-worker-2:399134 ] - [ INFO ]  Done!
+2019-06-03 14:44:58  [ ForkJoinPool.commonPool-worker-2:399134 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:00  [ ForkJoinPool.commonPool-worker-2:401132 ] - [ INFO ]  Done!
+2019-06-03 14:45:02  [ ForkJoinPool.commonPool-worker-2:403133 ] - [ INFO ]  Done!
+2019-06-03 14:45:04  [ ForkJoinPool.commonPool-worker-2:405135 ] - [ INFO ]  Done!
+2019-06-03 14:45:06  [ ForkJoinPool.commonPool-worker-2:407137 ] - [ INFO ]  Done!
+2019-06-03 14:45:06  [ ForkJoinPool.commonPool-worker-2:407137 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:08  [ ForkJoinPool.commonPool-worker-2:409136 ] - [ INFO ]  Done!
+2019-06-03 14:45:08  [ ForkJoinPool.commonPool-worker-2:409136 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:10  [ ForkJoinPool.commonPool-worker-2:411138 ] - [ INFO ]  Done!
+2019-06-03 14:45:10  [ ForkJoinPool.commonPool-worker-2:411138 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:12  [ ForkJoinPool.commonPool-worker-2:413139 ] - [ INFO ]  Done!
+2019-06-03 14:45:14  [ ForkJoinPool.commonPool-worker-2:415139 ] - [ INFO ]  Done!
+2019-06-03 14:45:16  [ ForkJoinPool.commonPool-worker-2:417141 ] - [ INFO ]  Done!
+2019-06-03 14:45:18  [ ForkJoinPool.commonPool-worker-2:419142 ] - [ INFO ]  Done!
+2019-06-03 14:45:20  [ ForkJoinPool.commonPool-worker-2:421143 ] - [ INFO ]  Done!
+2019-06-03 14:45:20  [ ForkJoinPool.commonPool-worker-2:421144 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:22  [ ForkJoinPool.commonPool-worker-2:423144 ] - [ INFO ]  Done!
+2019-06-03 14:45:22  [ ForkJoinPool.commonPool-worker-2:423144 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:24  [ ForkJoinPool.commonPool-worker-2:425145 ] - [ INFO ]  Done!
+2019-06-03 14:45:26  [ ForkJoinPool.commonPool-worker-2:427146 ] - [ INFO ]  Done!
+2019-06-03 14:45:26  [ ForkJoinPool.commonPool-worker-2:427146 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:28  [ ForkJoinPool.commonPool-worker-2:429147 ] - [ INFO ]  Done!
+2019-06-03 14:45:30  [ ForkJoinPool.commonPool-worker-2:431147 ] - [ INFO ]  Done!
+2019-06-03 14:45:30  [ ForkJoinPool.commonPool-worker-2:431147 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:32  [ ForkJoinPool.commonPool-worker-2:433149 ] - [ INFO ]  Done!
+2019-06-03 14:45:34  [ ForkJoinPool.commonPool-worker-2:435151 ] - [ INFO ]  Done!
+2019-06-03 14:45:36  [ ForkJoinPool.commonPool-worker-2:437151 ] - [ INFO ]  Done!
+2019-06-03 14:45:38  [ ForkJoinPool.commonPool-worker-2:439152 ] - [ INFO ]  Done!
+2019-06-03 14:45:38  [ ForkJoinPool.commonPool-worker-2:439153 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:45:40  [ ForkJoinPool.commonPool-worker-2:441153 ] - [ INFO ]  Done!
+2019-06-03 14:45:41  [ Thread-42:442157 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:46:26  [ Thread-45:486775 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:46:26  [ Thread-45:487005 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:46:26  [ Thread-45:487097 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:46:26  [ Thread-45:487097 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:46:26  [ Thread-45:487110 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:46:26  [ Thread-45:487126 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
+2019-06-03 14:46:26  [ Thread-45:487126 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:46:27  [ Thread-45:487812 ] - [ INFO ]  Done, but with error!
+2019-06-03 14:46:27  [ Thread-45:487812 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:46:35  [ Thread-28:496383 ] - [ INFO ]  Done!
+2019-06-03 14:46:35  [ Thread-28:496395 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:46:35  [ Thread-28:496399 ] - [ INFO ]  file:tpcc_1_20190603024350.log download success...
+2019-06-03 14:46:35  [ Thread-28:496399 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:46:35  [ Thread-28:496399 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:47:14  [ Thread-48:534884 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:47:14  [ Thread-48:534986 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:47:14  [ Thread-48:535061 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:47:14  [ Thread-48:535061 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:47:14  [ Thread-48:535075 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:47:14  [ Thread-48:535088 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
+2019-06-03 14:47:14  [ Thread-48:535088 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:47:14  [ Thread-48:535412 ] - [ INFO ]  Done!
+2019-06-03 14:47:14  [ Thread-48:535413 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:47:56  [ Thread-51:577174 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:47:56  [ Thread-51:577285 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:47:56  [ Thread-51:577360 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:47:56  [ Thread-51:577360 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:47:56  [ Thread-51:577375 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:47:56  [ Thread-51:577387 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
+2019-06-03 14:47:56  [ Thread-51:577387 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:47:56  [ Thread-51:577694 ] - [ INFO ]  Done!
+2019-06-03 14:47:56  [ Thread-51:577694 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:48:36  [ JavaFX Application Thread:617035 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:48:36  [ JavaFX Application Thread:617244 ] - [ INFO ]  Done!
+2019-06-03 14:48:36  [ JavaFX Application Thread:617245 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:48:42  [ Thread-57:622903 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:48:42  [ Thread-57:623003 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:48:42  [ Thread-57:623074 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:48:42  [ Thread-57:623074 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:48:42  [ Thread-57:623088 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:48:42  [ Thread-57:623101 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-06-03 14:48:42  [ Thread-57:623101 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:48:44  [ Thread-56:625257 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:48:44  [ Thread-56:625359 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:48:44  [ Thread-56:625429 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:48:44  [ Thread-56:625429 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:48:44  [ Thread-56:625441 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:48:44  [ Thread-56:625456 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-06-03 14:48:44  [ Thread-56:625456 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:48:48  [ Thread-57:629547 ] - [ INFO ]  Done!
+2019-06-03 14:48:48  [ Thread-57:629547 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:48:51  [ Thread-56:631915 ] - [ INFO ]  Done!
+2019-06-03 14:48:51  [ Thread-56:631915 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:48:54  [ JavaFX Application Thread:634857 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:48:54  [ JavaFX Application Thread:635059 ] - [ INFO ]  Done!
+2019-06-03 14:48:54  [ JavaFX Application Thread:635059 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:49:01  [ Thread-64:641731 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:49:01  [ ForkJoinPool.commonPool-worker-3:641951 ] - [ INFO ]  Done!
+2019-06-03 14:49:03  [ ForkJoinPool.commonPool-worker-3:643846 ] - [ INFO ]  Done!
+2019-06-03 14:49:05  [ ForkJoinPool.commonPool-worker-3:645851 ] - [ INFO ]  Done!
+2019-06-03 14:49:07  [ ForkJoinPool.commonPool-worker-3:647848 ] - [ INFO ]  Done!
+2019-06-03 14:49:07  [ ForkJoinPool.commonPool-worker-3:647848 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:49:09  [ Thread-64:649735 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:49:50  [ Thread-68:691723 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:49:51  [ Thread-68:691824 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:49:51  [ Thread-68:691896 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:49:51  [ Thread-68:691896 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:49:51  [ Thread-68:691910 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:49:51  [ Thread-68:691926 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-06-03 14:49:51  [ Thread-68:691926 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:49:52  [ Thread-67:693200 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:49:52  [ Thread-67:693300 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:49:52  [ Thread-67:693374 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:49:52  [ Thread-67:693374 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:49:52  [ Thread-67:693388 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:49:52  [ Thread-67:693403 ] - [ INFO ]  file:/autotest/shell/delay_test_init.sh upload success...
+2019-06-03 14:49:52  [ Thread-67:693403 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:49:57  [ Thread-68:698361 ] - [ INFO ]  Done!
+2019-06-03 14:49:57  [ Thread-68:698361 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:49:59  [ Thread-67:699855 ] - [ INFO ]  Done!
+2019-06-03 14:49:59  [ Thread-67:699856 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:50:01  [ JavaFX Application Thread:701968 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:50:02  [ JavaFX Application Thread:703140 ] - [ INFO ]  Done!
+2019-06-03 14:50:02  [ JavaFX Application Thread:703141 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:50:06  [ Thread-75:707092 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:50:07  [ ForkJoinPool.commonPool-worker-4:708138 ] - [ INFO ]  Done!
+2019-06-03 14:50:09  [ ForkJoinPool.commonPool-worker-4:710136 ] - [ INFO ]  Done!
+2019-06-03 14:50:09  [ ForkJoinPool.commonPool-worker-4:710136 ] - [ INFO ]  channel-exec closed!
+2019-06-03 14:50:11  [ ForkJoinPool.commonPool-worker-4:712136 ] - [ INFO ]  Done!
+2019-06-03 14:50:12  [ Thread-75:713093 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:50:29  [ Thread-78:729898 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:50:29  [ Thread-78:730003 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:50:29  [ Thread-78:730070 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:50:29  [ Thread-78:730070 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:50:29  [ Thread-78:730083 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:50:29  [ Thread-78:730096 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
+2019-06-03 14:50:29  [ Thread-78:730096 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:50:29  [ Thread-78:730436 ] - [ INFO ]  Done!
+2019-06-03 14:50:29  [ Thread-78:730437 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:52:24  [ Thread-81:845050 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:52:24  [ Thread-81:845150 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:52:24  [ Thread-81:845221 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:52:24  [ Thread-81:845221 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:52:24  [ Thread-81:845233 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:52:24  [ Thread-81:845248 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
+2019-06-03 14:52:24  [ Thread-81:845248 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:52:24  [ Thread-81:845580 ] - [ INFO ]  Done!
+2019-06-03 14:52:24  [ Thread-81:845581 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:52:46  [ Thread-84:867190 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:52:46  [ Thread-84:867290 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:52:46  [ Thread-84:867363 ] - [ INFO ]  file:/autotest/tools/percona-toolkit_3.0.13-1.xenial_amd64.deb upload success...
+2019-06-03 14:52:46  [ Thread-84:867363 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:52:46  [ Thread-84:867375 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:52:46  [ Thread-84:867389 ] - [ INFO ]  file:/autotest/shell/consistent_test.sh upload success...
+2019-06-03 14:52:46  [ Thread-84:867389 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:52:46  [ Thread-84:867716 ] - [ INFO ]  Done, but with error!
+2019-06-03 14:52:46  [ Thread-84:867716 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:52:51  [ Thread-87:871822 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:52:51  [ Thread-87:871920 ] - [ INFO ]  Done!
+2019-06-03 14:52:51  [ Thread-87:871920 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:58:14  [ Thread-5:0 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:58:15  [ Thread-5:106 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:58:15  [ Thread-5:114 ] - [ INFO ]  file:/autotest/shell/install_sysstat.sh upload success...
+2019-06-03 14:58:15  [ Thread-5:114 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:58:15  [ Thread-5:120 ] - [ INFO ]  Done!
+2019-06-03 14:58:16  [ ForkJoinPool.commonPool-worker-1:1137 ] - [ INFO ]  Done!
+2019-06-03 14:58:17  [ Thread-4:2327 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:58:17  [ Thread-4:2430 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:58:17  [ Thread-4:2434 ] - [ INFO ]  file:/autotest/shell/install_sysstat.sh upload success...
+2019-06-03 14:58:17  [ Thread-4:2435 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:58:17  [ Thread-4:2447 ] - [ INFO ]  Done!
+2019-06-03 14:58:18  [ ForkJoinPool.commonPool-worker-1:3460 ] - [ INFO ]  Done!
+2019-06-03 14:58:19  [ ForkJoinPool.commonPool-worker-2:4136 ] - [ INFO ]  Done!
+2019-06-03 14:58:21  [ ForkJoinPool.commonPool-worker-2:6457 ] - [ INFO ]  Done!
+2019-06-03 14:58:22  [ ForkJoinPool.commonPool-worker-1:7137 ] - [ INFO ]  Done!
+2019-06-03 14:58:24  [ ForkJoinPool.commonPool-worker-1:9455 ] - [ INFO ]  Done!
+2019-06-03 14:58:25  [ ForkJoinPool.commonPool-worker-2:10135 ] - [ INFO ]  Done!
+2019-06-03 14:58:27  [ ForkJoinPool.commonPool-worker-2:12456 ] - [ INFO ]  Done!
+2019-06-03 14:58:28  [ ForkJoinPool.commonPool-worker-1:13137 ] - [ INFO ]  Done!
+2019-06-03 14:58:30  [ ForkJoinPool.commonPool-worker-1:15457 ] - [ INFO ]  Done!
+2019-06-03 14:58:31  [ ForkJoinPool.commonPool-worker-2:16137 ] - [ INFO ]  Done!
+2019-06-03 14:58:31  [ Thread-10:16527 ] - [ INFO ]  sshSession connected...
+2019-06-03 14:58:31  [ Thread-10:16627 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:58:31  [ Thread-10:16641 ] - [ INFO ]  file:/autotest/tools/tpcc-mysql.tar.gz upload success...
+2019-06-03 14:58:31  [ Thread-10:16642 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:58:31  [ Thread-10:16653 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 14:58:31  [ Thread-10:16656 ] - [ INFO ]  file:/autotest/shell/business_scenario_test.sh upload success...
+2019-06-03 14:58:31  [ Thread-10:16657 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 14:58:33  [ ForkJoinPool.commonPool-worker-2:18467 ] - [ INFO ]  Done!
+2019-06-03 14:58:34  [ ForkJoinPool.commonPool-worker-1:19137 ] - [ INFO ]  Done!
+2019-06-03 14:58:36  [ ForkJoinPool.commonPool-worker-1:21486 ] - [ INFO ]  Done!
+2019-06-03 14:58:37  [ ForkJoinPool.commonPool-worker-2:22138 ] - [ INFO ]  Done!
+2019-06-03 14:58:39  [ ForkJoinPool.commonPool-worker-2:24458 ] - [ INFO ]  Done!
+2019-06-03 14:58:40  [ ForkJoinPool.commonPool-worker-1:25139 ] - [ INFO ]  Done!
+2019-06-03 14:58:42  [ ForkJoinPool.commonPool-worker-1:27461 ] - [ INFO ]  Done!
+2019-06-03 14:58:43  [ ForkJoinPool.commonPool-worker-2:28140 ] - [ INFO ]  Done!
+2019-06-03 14:58:45  [ ForkJoinPool.commonPool-worker-2:30479 ] - [ INFO ]  Done!
+2019-06-03 14:58:46  [ ForkJoinPool.commonPool-worker-1:31140 ] - [ INFO ]  Done!
+2019-06-03 14:58:48  [ ForkJoinPool.commonPool-worker-1:33463 ] - [ INFO ]  Done!
+2019-06-03 14:58:49  [ ForkJoinPool.commonPool-worker-2:34141 ] - [ INFO ]  Done!
+2019-06-03 14:58:51  [ ForkJoinPool.commonPool-worker-2:36466 ] - [ INFO ]  Done!
+2019-06-03 14:58:52  [ ForkJoinPool.commonPool-worker-1:37143 ] - [ INFO ]  Done!
+2019-06-03 14:58:54  [ ForkJoinPool.commonPool-worker-1:39464 ] - [ INFO ]  Done!
+2019-06-03 14:58:55  [ ForkJoinPool.commonPool-worker-2:40144 ] - [ INFO ]  Done!
+2019-06-03 14:58:57  [ ForkJoinPool.commonPool-worker-2:42462 ] - [ INFO ]  Done!
+2019-06-03 14:58:58  [ ForkJoinPool.commonPool-worker-1:43149 ] - [ INFO ]  Done!
+2019-06-03 14:59:00  [ ForkJoinPool.commonPool-worker-1:45465 ] - [ INFO ]  Done!
+2019-06-03 14:59:01  [ ForkJoinPool.commonPool-worker-2:46144 ] - [ INFO ]  Done!
+2019-06-03 14:59:03  [ ForkJoinPool.commonPool-worker-2:48471 ] - [ INFO ]  Done!
+2019-06-03 14:59:04  [ ForkJoinPool.commonPool-worker-1:49145 ] - [ INFO ]  Done!
+2019-06-03 14:59:06  [ ForkJoinPool.commonPool-worker-1:51469 ] - [ INFO ]  Done!
+2019-06-03 14:59:07  [ ForkJoinPool.commonPool-worker-2:52147 ] - [ INFO ]  Done!
+2019-06-03 14:59:09  [ ForkJoinPool.commonPool-worker-2:54468 ] - [ INFO ]  Done!
+2019-06-03 14:59:10  [ ForkJoinPool.commonPool-worker-1:55148 ] - [ INFO ]  Done!
+2019-06-03 14:59:12  [ ForkJoinPool.commonPool-worker-1:57476 ] - [ INFO ]  Done!
+2019-06-03 14:59:13  [ ForkJoinPool.commonPool-worker-2:58154 ] - [ INFO ]  Done!
+2019-06-03 14:59:15  [ ForkJoinPool.commonPool-worker-2:60472 ] - [ INFO ]  Done!
+2019-06-03 14:59:16  [ ForkJoinPool.commonPool-worker-1:61213 ] - [ INFO ]  Done!
+2019-06-03 14:59:18  [ ForkJoinPool.commonPool-worker-1:63495 ] - [ INFO ]  Done!
+2019-06-03 14:59:19  [ ForkJoinPool.commonPool-worker-2:64168 ] - [ INFO ]  Done!
+2019-06-03 14:59:21  [ ForkJoinPool.commonPool-worker-2:66505 ] - [ INFO ]  Done!
+2019-06-03 14:59:22  [ ForkJoinPool.commonPool-worker-1:67169 ] - [ INFO ]  Done!
+2019-06-03 14:59:24  [ ForkJoinPool.commonPool-worker-1:69529 ] - [ INFO ]  Done!
+2019-06-03 14:59:25  [ ForkJoinPool.commonPool-worker-2:70172 ] - [ INFO ]  Done!
+2019-06-03 14:59:27  [ ForkJoinPool.commonPool-worker-2:72504 ] - [ INFO ]  Done!
+2019-06-03 14:59:28  [ ForkJoinPool.commonPool-worker-1:73199 ] - [ INFO ]  Done!
+2019-06-03 14:59:30  [ ForkJoinPool.commonPool-worker-1:75505 ] - [ INFO ]  Done!
+2019-06-03 14:59:31  [ ForkJoinPool.commonPool-worker-2:76198 ] - [ INFO ]  Done!
+2019-06-03 14:59:33  [ ForkJoinPool.commonPool-worker-2:78527 ] - [ INFO ]  Done!
+2019-06-03 14:59:34  [ ForkJoinPool.commonPool-worker-1:79240 ] - [ INFO ]  Done!
+2019-06-03 14:59:36  [ ForkJoinPool.commonPool-worker-1:81527 ] - [ INFO ]  Done!
+2019-06-03 14:59:37  [ ForkJoinPool.commonPool-worker-2:82213 ] - [ INFO ]  Done!
+2019-06-03 14:59:39  [ ForkJoinPool.commonPool-worker-2:84620 ] - [ INFO ]  Done!
+2019-06-03 14:59:40  [ ForkJoinPool.commonPool-worker-1:85224 ] - [ INFO ]  Done!
+2019-06-03 14:59:42  [ ForkJoinPool.commonPool-worker-1:87615 ] - [ INFO ]  Done!
+2019-06-03 14:59:43  [ ForkJoinPool.commonPool-worker-2:88224 ] - [ INFO ]  Done!
+2019-06-03 14:59:45  [ ForkJoinPool.commonPool-worker-2:90604 ] - [ INFO ]  Done!
+2019-06-03 14:59:46  [ ForkJoinPool.commonPool-worker-1:91226 ] - [ INFO ]  Done!
+2019-06-03 14:59:48  [ ForkJoinPool.commonPool-worker-1:93661 ] - [ INFO ]  Done!
+2019-06-03 14:59:49  [ ForkJoinPool.commonPool-worker-2:94220 ] - [ INFO ]  Done!
+2019-06-03 14:59:51  [ Thread-5:96215 ] - [ INFO ]  sshSession closed!
+2019-06-03 14:59:51  [ ForkJoinPool.commonPool-worker-2:96623 ] - [ INFO ]  Done!
+2019-06-03 14:59:53  [ Thread-4:98614 ] - [ INFO ]  sshSession closed!
+2019-06-03 15:04:41  [ Thread-10:386793 ] - [ INFO ]  Done!
+2019-06-03 15:04:41  [ Thread-10:386794 ] - [ INFO ]  channel-exec closed!
+2019-06-03 15:04:41  [ Thread-10:386810 ] - [ INFO ]  channel-sftp connected...
+2019-06-03 15:04:41  [ Thread-10:386815 ] - [ INFO ]  file:tpcc_10_20190603025831.log download success...
+2019-06-03 15:04:41  [ Thread-10:386815 ] - [ INFO ]  channel-sftp closed!
+2019-06-03 15:04:41  [ Thread-10:386816 ] - [ INFO ]  sshSession closed!

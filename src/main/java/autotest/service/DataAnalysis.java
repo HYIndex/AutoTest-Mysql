@@ -78,12 +78,12 @@ public class DataAnalysis {
             cpuInfo[i] = Float.parseFloat(cpuInfoStr[i+2]);
             sum += cpuInfo[i];
         }
-        String cpuUtil = String.format("%.2f", (sum - cpuInfo[5]) / sum);
-        ret.setCpuUtil(cpuUtil);
+        String cpuUtil = String.format("%.2f", (sum - cpuInfo[5]) / sum * 100.0);
+        ret.setCpuUtil(cpuUtil + "%");
         String[] memInfoStr = info.get(3).split("[ ]+");
-        ret.setMemUtil(memInfoStr[3]);
+        ret.setMemUtil(memInfoStr[3] + "%");
         int netIndex = 0;
-        for (int i = 0; i < info.size(); i++) {
+        for (int i = 4; i < info.size(); i++) {
             if (info.get(i).indexOf("IFACE") != -1) {
                 netIndex = i + 1;
                 break;
@@ -105,14 +105,14 @@ public class DataAnalysis {
                 maxDiskUtil = diskUtil[i];
             }
         }
-        ret.setDiskUtil(String.format("%.2f", maxDiskUtil));
-        Float maxNetUtil = diskUtil[0];
+        ret.setDiskUtil(String.format("%.2f", maxDiskUtil) + "%");
+        Float maxNetUtil = netUtil[0];
         for (int i = 1; i < netUtil.length; i++) {
             if (netUtil[i] > maxNetUtil) {
                 maxNetUtil = netUtil[i];
             }
         }
-        ret.setNetUtil(String.format("%.2f", maxNetUtil));
+        ret.setNetUtil(String.format("%.2f", maxNetUtil) + "%");
         return ret;
     }
 }

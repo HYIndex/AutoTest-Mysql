@@ -19,17 +19,7 @@ checkMysql() {
     if [ $? -eq 0 ]
     then
         mysql_is_installed=1
-#        mysql_version=`mysql --version | grep '5.7.25' | wc -l`
-#        if [ ${mysql_version} != 1 ]
-#        then
-#            # Uninstall
-#            apt-get -y remove mysql-*
-#            dpkg -l |grep ^rc|awk '{print $2}' | xargs dpkg -P
-#            # Install
-#            export DEBIAN_FRONTEND=noninteractive
-#            apt-get update -y
-#            apt-get install mysql-server mysql-client -y
-#        fi
+
     else
         export DEBIAN_FRONTEND=noninteractive
         apt-get update -y >/dev/null

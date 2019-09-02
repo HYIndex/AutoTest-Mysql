@@ -350,9 +350,9 @@ public class MainwindowController implements Initializable {
         cbTableSize.getSelectionModel().select(1);
         cbTableNum.getItems().addAll("10", "100", "1000");
         cbTableNum.getSelectionModel().select(1);
-        cbThreadNum.getItems().addAll("16", "32", "64", "128", "256", "512");
+        cbThreadNum.getItems().addAll("4", "8", "16", "32", "64", "128", "256", "512");
         cbThreadNum.getSelectionModel().select(0);
-        cbTestTime.getItems().addAll("180", "300", "600");
+        cbTestTime.getItems().addAll("60", "180", "300", "600");
         cbTestTime.getSelectionModel().select(1);
         cbReportInterval.getItems().addAll("5", "10", "20");
         cbReportInterval.getSelectionModel().select(1);
@@ -555,6 +555,7 @@ public class MainwindowController implements Initializable {
         tcRealtimeDelay.setCellValueFactory(cellData -> cellData.getValue().realtimeDelayProperty());
         tcAverageDelay.setCellValueFactory(cellData -> cellData.getValue().averageDelayProperty());
 
+        tfMonitorInterval.setText("2");
         tfTestDatabase.setText("testdb");
     }
 
@@ -699,11 +700,11 @@ public class MainwindowController implements Initializable {
 
         cbWarehouses.getItems().addAll("10", "100", "1000");
         cbWarehouses.getSelectionModel().select(0);
-        cbConnects.getItems().addAll("16", "32", "64", "128", "256", "384", "512", "640", "768", "896", "1024");
+        cbConnects.getItems().addAll("4", "8", "16", "32", "64", "128", "256", "384", "512");
         cbConnects.getSelectionModel().select(0);
         cbWarmupTime.getItems().addAll("60", "120", "180", "240", "300");
         cbWarmupTime.getSelectionModel().select(1);
-        cbDuration.getItems().addAll("180", "300", "600");
+        cbDuration.getItems().addAll("60", "180", "300", "600");
         cbDuration.getSelectionModel().select(1);
         cbBSReportInterval.getItems().addAll("5", "10", "20");
         cbBSReportInterval.getSelectionModel().select(1);

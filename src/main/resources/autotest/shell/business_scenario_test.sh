@@ -18,19 +18,15 @@ STEP=100
 
 if [ ! -d "/usr/local/tpcc-mysql" ]
 then
-    #安装git（原本有的话不用安装）
-    apt-get -y install git > /dev/null
-    #安装make
-    apt-get -y install make > /dev/null
-
+    if [ -f /var/autotest/tpcc-mysql.tar.gz ]
+    then
+    tar -zxvf /var/autotest/tpcc-mysql.tar.gz -C /usr/local/ > /dev/null
     #安装mysql开发环境
     apt-get -y install libmysqlclient-dev > /dev/null
     #克隆源码
-    cd /usr/local
-    git clone https://github.com/Percona-Lab/tpcc-mysql.git > /dev/null
-
-    cd tpcc-mysql/src
-    make
+    cd /usr/local/tpcc-mysql/src
+    make > /dev/null
+    fi
 fi
 
 cd /usr/local/tpcc-mysql
@@ -44,9 +40,7 @@ mysql -h${HOST} -u${USER} -p${PASS} TPCC < ./add_fkey_idx.sql
 
 ## 并行load测试数据
 ./tpcc_load -h $HOST -d ${DBNAME} -u ${USER} -p ${PASS} -w ${WH} -l 1 -m 1 -n ${WH} > /dev/null &
-
 x=1
-
 while [ $x -le ${WH} ]
 do
  echo $x $(( $x + $STEP - 1 ))
@@ -79,5 +73,6 @@ echo 3 > /proc/sys/vm/drop_caches
 sleep 30
 
 done
-
+mysql -h${HOST} -u${USER} -p${PASS} -e "DROP DATABASE IF EXISTS ${DBNAME};"
+pkill tpcc_load
 IFS=${oldIFS}

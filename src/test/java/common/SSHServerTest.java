@@ -1,6 +1,5 @@
 package common;
 
-import common.SSHServer;
 import com.jcraft.jsch.SftpException;
 
 import java.util.ArrayList;
@@ -22,7 +21,7 @@ public class SSHServerTest {
         //sshServer.execute(cmd);
 
         try {
-            sshServer.upload("/usr/local", "/autotest/testtool/sysbench-3.0.0.tar.gz");
+            sshServer.upload("/usr/local", "/autotest/tools/sysbench-3.0.0.tar.gz");
         } catch (SftpException e) {
             e.printStackTrace();
         }

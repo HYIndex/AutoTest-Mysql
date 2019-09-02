@@ -525,7 +525,7 @@
                         </AnchorPane>
                     </content>
                   </Tab>
-                  <Tab fx:id="tabSystemBottleneck" text="系统瓶颈测试">
+                  <Tab fx:id="tabSystemBottleneck" text="系统资源监控">
                     <content>
                       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                            <children>

@@ -7,11 +7,15 @@ database=$4
 
 # 安装pt-table-checksum工具
 pt-table-checksum --version >/dev/null
-if [ $? == 127 ]
+if [ $? != 0 ]
 then
-    wget https://www.percona.com/downloads/percona-toolkit/3.0.13/binary/debian/xenial/x86_64/percona-toolkit_3.0.13-1.xenial_amd64.deb >/dev/null
-    dpkg -i percona-toolkit_3.0.13-1.xenial_amd64.deb >/dev/null
-    apt-get -f install -y >/dev/null
+    if [ -f /var/autotest/percona-toolkit_3.0.13-1.xenial_amd64.deb ]
+    then
+        # wget https://www.percona.com/downloads/percona-toolkit/3.0.13/binary/debian/xenial/x86_64/percona-toolkit_3.0.13-1.xenial_amd64.deb >/dev/null
+        apt-get update -y >/dev/null
+        dpkg -i /var/autotest/percona-toolkit_3.0.13-1.xenial_amd64.deb >/dev/null
+        apt-get -f install -y >/dev/null
+    fi
 fi
 
 pt-table-checksum h=${host},u=${user},p=${pass},P=3306 -d ${database}  --nocheck-replication-filters --no-check-binlog-format --recursion-method=processlist

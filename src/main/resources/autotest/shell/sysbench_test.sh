@@ -58,12 +58,12 @@ then
 
     # 首先要创建测试数据库
     mysql -u ${user} -p${password} -e "create database testdb;"
-
+    # -o ${test_type} == "read_write"
     oldIFS=$IFS
     IFS=,
     for thread in ${threads}
     do
-    if [ ${test_type} == "insert" -o ${test_type} == "update_index" -o ${test_type} == "update_non_index" -o ${test_type} == "delete" -o ${test_type} == "read_write" ]
+    if [ ${test_type} == "insert" -o ${test_type} == "update_index" -o ${test_type} == "update_non_index" -o ${test_type} == "delete" ]
     then
         /usr/local/sysbench/src/sysbench ${testname} --mysql-user=${user} --mysql-password=${password} --mysql-host=${host} --mysql-port=3306 --mysql-db=testdb --mysql-storage-engine=innodb --table-size=${table_size} --tables=${tables} --threads=${thread} --time=${time} --report-interval=${interval} prepare
         /usr/local/sysbench/src/sysbench ${testname} --mysql-user=${user} --mysql-password=${password} --mysql-host=${host} --mysql-port=3306 --mysql-db=testdb --mysql-storage-engine=innodb --table-size=${table_size} --tables=${tables} --threads=${thread} --time=${time} --report-interval=${interval} run >> ${resname}
